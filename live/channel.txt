@@ -303,10 +303,10 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8
 浙江国际,http://yd-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
-浙江好易购 1080,http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
-浙江好易购 1080,http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
-浙江好易购 1080,http://yd-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
-浙江好易购 1080,http://yd-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
+浙江好易购,1080,http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+浙江好易购,1080,http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
+浙江好易购,1080,http://yd-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+浙江好易购,1080,http://yd-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
 
 浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8
