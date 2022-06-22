@@ -1,4 +1,4 @@
-﻿{"zhuyejiekou": [
+{"zhuyejiekou": [
 {"name":"默认主页","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
 {"name":"365看","url":"https://www.kan365.xyz/api.php/app/"},
 {"name":"剧白白","url":"https://v.pipitu.top/xgapp.php/v2/"},
