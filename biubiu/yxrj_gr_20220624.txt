@@ -1,4 +1,4 @@
-﻿{"zhuyejiekou": [
+{"zhuyejiekou": [
 {"name":"本接口为18禁","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"家庭版请关注公众号云星日记获取","url":"https://vip.wscyun.com/api.php/v1.vod"},
 {"name":"切换下方采集接口","url":"https://www.uumjw.com/api.php/v1.vod"},
