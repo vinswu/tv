@@ -1,5 +1,7 @@
-## TVBox
+## [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC "点击直达")
 
-查看[TVBox源码](https://github.com/CatVodTVOfficial/TVBoxOSC "点击直达")
+https://github.com/CatVodTVOfficial/TVBoxOSC/actions
 
-查看[TVBox开发版](https://github.com/o0HalfLife0o/TVBoxOSC "点击直达")
+## [TVBox开发版](https://github.com/o0HalfLife0o/TVBoxOSC "点击直达")
+
+https://github.com/o0HalfLife0o/TVBoxOSC/releases
