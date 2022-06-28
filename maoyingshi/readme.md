@@ -35,7 +35,7 @@ https://wp.wangshi520.com
 20220608
 pglblb
 
-## 猫影视1.1.1 或9.9.9 配置接口
+## 猫影视1.1.1 或9.9.9 配置接口 （不建议使用。替代方案：BiuBiu影院_999.999.999）
 
 https://shuyuan.miaogongzi.net/shuyuan/1655947082.txt
 
