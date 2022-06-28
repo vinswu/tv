@@ -13,5 +13,5 @@ http://www.yunhitv.com
 ## HDP直播（关停）、高清直播
 http://www.hdplive.net
 
-## 酷看直播、超级iTV（暂无广告，QQ群获取安装包）
+## 酷看直播、超级iTV（暂无广告）
 http://kutvv.com/
