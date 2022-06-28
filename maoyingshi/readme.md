@@ -1,3 +1,5 @@
+## 猫影视 （项目关停）
+
 【关于配置文件下载地址的说明】
 
 仔细看完对新手来说，1分钟学会，非常简单
@@ -32,3 +34,17 @@ https://wp.wangshi520.com
 
 20220608
 pglblb
+
+## 猫影视1.1.1 或9.9.9 配置接口
+
+https://shuyuan.miaogongzi.net/shuyuan/1655931260.txt
+
+https://shuyuan.miaogongzi.net/shuyuan/1655893657.txt
+
+https://shuyuan.miaogongzi.net/shuyuan/1655918598.txt
+
+https://shuyuan.miaogongzi.net/shuyuan/1655904686.json
+
+https://shuyuan.miaogongzi.net/shuyuan/1655947082.txt
+
+## [书源外链](https://shuyuan.miaogongzi.net/ "免注册 上传配置文件")
