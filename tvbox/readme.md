@@ -19,5 +19,3 @@ http://maoyingshi.cc/tvbox/云星日记/tvbox4.json
 http://maoyingshi.cc/tvbox/云星日记/tvbox5.json
 
 http://maoyingshi.cc/tvbox/云星日记/tvbox6.json
-
-http://maoyingshi.cc/tvbox/云星日记/tvbox18.json
