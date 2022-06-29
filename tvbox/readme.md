@@ -6,7 +6,7 @@ https://github.com/CatVodTVOfficial/TVBoxOSC/actions
 
 https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
-## 微信公众号：云星日记 在线接口
+## 在线接口（微信公众号：云星日记）
 
 http://maoyingshi.cc/tvbox/云星日记/tvbox.json
 
