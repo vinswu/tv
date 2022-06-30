@@ -22,6 +22,7 @@ https://www.nite07.com/biubiupz/1.txt
 
 https://pastebin.com/raw/GENensQr
 
+https://shuyuan.miaogongzi.net/shuyuan/1652339973.json
 
 
 ## 外链
