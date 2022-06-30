@@ -4,14 +4,18 @@ http://www.mikkk.xyz/bb.json
 
 http://laohu.cool/ddtv/dd.json
 
+http://maoyingshi.cc/biubiu/云星日记/jiating.txt
+
 https://liu673cn.github.io/biubiu/bb.txt
 
-http://maoyingshi.cc/biubiu/云星日记/jiating.txt
+https://pastebin.com/raw/GENensQr
 
 ## 扩展
 
 [书源外链](https://shuyuan.miaogongzi.net "免费，免注册")
 
+[云星日记](https://mp.weixin.qq.com/s/eCBkofTYVBuGdUg6AuwUEQ "biubiutv九合一接口整合/家庭版和个人版分享")
+
 [liu673cn](https://github.com/liu673cn/biubiu "liu673cn github仓库")
 
-[云星日记](https://mp.weixin.qq.com/s/eCBkofTYVBuGdUg6AuwUEQ "biubiutv九合一接口整合/家庭版和个人版分享")
+
