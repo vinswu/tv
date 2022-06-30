@@ -22,6 +22,8 @@ https://www.nite07.com/biubiupz/1.txt
 
 https://pastebin.com/raw/GENensQr
 
+https://wds.ecsxs.com/227718.txt
+
 https://shuyuan.miaogongzi.net/shuyuan/1652339973.json
 
 
