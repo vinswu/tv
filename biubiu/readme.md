@@ -1,4 +1,4 @@
-## BiuBiu影院 全局接口 20220625
+## BiuBiu影院 全局接口
 
 http://www.mikkk.xyz/bb.json
 
