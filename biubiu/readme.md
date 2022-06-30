@@ -32,4 +32,4 @@ https://pastebin.com/raw/GENensQr
 
 [liu673cn](https://github.com/liu673cn/biubiu "liu673cn github仓库")
 
-[Nite07](https://www.nite07.com/biubiutv/ Nite07的小窝)
+[Nite07](https://www.nite07.com/biubiutv/ "Nite07的小窝")
