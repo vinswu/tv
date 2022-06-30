@@ -6,6 +6,8 @@ BiuBiu影院（BiuBiu播放器/BiuBiuTV）是一款手机电视通用的全新�
 
 http://www.mikkk.xyz/bb.json
 
+http://www.leleys.xyz/app/biu322.json
+
 http://laohu.cool/ddtv/dd.json
 
 https://freed.yuanhsing.cf/BiuBiu/bb.json
@@ -17,6 +19,10 @@ https://liu673cn.github.io/biubiu/bb.txt
 https://www.nite07.com/biubiupz/1.txt
 
 https://pastebin.com/raw/GENensQr
+
+https://shuyuan.miaogongzi.net/shuyuan/1652339973.json
+
+https://shuyuan.miaogongzi.net/shuyuan/1656222817.txt
 
 ## 外链
 
