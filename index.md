@@ -1,6 +1,6 @@
 ## Android TV Apps
 
-[Live](https://vinswu.github.io/biubiu/)
+[Live Apps](https://vinswu.github.io/biubiu/)
 
 [BiuBiu影院](https://vinswu.github.io/biubiu/)
 
