@@ -47,6 +47,6 @@ https://shuyuan.miaogongzi.net/shuyuan/1655918598.txt
 
 https://shuyuan.miaogongzi.net/shuyuan/1655904686.json
 
-## [书源外链]
+## 书源外链
 
 https://shuyuan.miaogongzi.net
