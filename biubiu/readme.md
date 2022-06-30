@@ -10,9 +10,15 @@ https://liu673cn.github.io/biubiu/bb.txt
 
 https://pastebin.com/raw/GENensQr
 
-## 扩展
+## 外链
 
-[书源外链](https://shuyuan.miaogongzi.net "免费，免注册")
+[永硕E盘](http://www.ys168.com/)
+
+[云储在线](https://yunchu.cxoip.com/)
+
+[书源外链](https://shuyuan.miaogongzi.net/)
+
+## 课外阅读
 
 [云星日记](https://mp.weixin.qq.com/s/eCBkofTYVBuGdUg6AuwUEQ "biubiutv九合一接口整合/家庭版和个人版分享")
 
