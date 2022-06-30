@@ -10,6 +10,8 @@ http://www.leleys.xyz/app/biu322.json
 
 http://laohu.cool/ddtv/dd.json
 
+http://app.yeyin.vip/a/biubiu/jiekou.json
+
 https://freed.yuanhsing.cf/BiuBiu/bb.json
 
 http://maoyingshi.cc/biubiu/云星日记/jiating.txt
@@ -20,9 +22,7 @@ https://www.nite07.com/biubiupz/1.txt
 
 https://pastebin.com/raw/GENensQr
 
-https://shuyuan.miaogongzi.net/shuyuan/1652339973.json
 
-https://shuyuan.miaogongzi.net/shuyuan/1656222817.txt
 
 ## 外链
 
@@ -34,8 +34,18 @@ https://shuyuan.miaogongzi.net/shuyuan/1656222817.txt
 
 ## 课外阅读
 
-[云星日记](https://mp.weixin.qq.com/s/eCBkofTYVBuGdUg6AuwUEQ "biubiutv九合一接口整合/家庭版和个人版分享")
+[云星日记](https://mp.weixin.qq.com/s/eCBkofTYVBuGdUg6AuwUEQ "微信公众号 biubiutv九合一接口整合/家庭版和个人版分享")
 
 [liu673cn](https://github.com/liu673cn/biubiu "liu673cn github仓库")
 
+[hd9211](https://github.com/hd9211/biubiu "hd9211 github仓库")
+
+[分享迷](https://www.fenxm.com/806.html "分享迷")
+
+[谷子猫](http://www.xgiu.com/BiuBiu_TV_Box "谷子猫的博客")
+
+[叶音](http://www.yeyin.vip/index.php/archives/500/ "叶音资源站")
+
 [Nite07](https://www.nite07.com/biubiutv/ "Nite07的小窝")
+
+
