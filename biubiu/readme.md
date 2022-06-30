@@ -1,4 +1,8 @@
-## BiuBiu影院 全局接口
+# BiuBiu影院
+
+BiuBiu影院（BiuBiu播放器/BiuBiuTV）是一款手机电视通用的全新免费追剧神器，自由选择手机布局或电视布局，简洁明了，老人也能轻松使用，资源也很齐全。
+
+## 全局接口
 
 http://www.mikkk.xyz/bb.json
 
