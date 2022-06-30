@@ -14,6 +14,8 @@ http://maoyingshi.cc/biubiu/云星日记/jiating.txt
 
 https://liu673cn.github.io/biubiu/bb.txt
 
+https://www.nite07.com/biubiupz/1.txt
+
 https://pastebin.com/raw/GENensQr
 
 ## 外链
@@ -30,4 +32,4 @@ https://pastebin.com/raw/GENensQr
 
 [liu673cn](https://github.com/liu673cn/biubiu "liu673cn github仓库")
 
-
+[Nite07](https://www.nite07.com/biubiutv/ Nite07的小窝)
