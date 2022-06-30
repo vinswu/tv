@@ -1,6 +1,6 @@
 # TVBox
 
-猫影视->TVBox
+~猫影视~ -> TVBox
 
 ## TVBoxOSC
 https://github.com/CatVodTVOfficial/TVBoxOSC
