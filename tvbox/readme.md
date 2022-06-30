@@ -8,6 +8,6 @@ https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
 ## 在线接口
 
-http://maoyingshi.cc/tvbox/云星日记/tvbox.json
-
 https://wds.ecsxs.com/223843.txt
+
+http://maoyingshi.cc/tvbox/云星日记/tvbox.json
