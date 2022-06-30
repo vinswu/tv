@@ -1,4 +1,4 @@
-## TV Live Apps
+## Live Apps
 
 ## HDP直播（关停）、高清直播
 http://www.hdplive.net
