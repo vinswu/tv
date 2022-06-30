@@ -8,6 +8,8 @@ http://www.mikkk.xyz/bb.json
 
 http://laohu.cool/ddtv/dd.json
 
+https://freed.yuanhsing.cf/BiuBiu/bb.json
+
 http://maoyingshi.cc/biubiu/云星日记/jiating.txt
 
 https://liu673cn.github.io/biubiu/bb.txt
