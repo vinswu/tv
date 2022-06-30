@@ -1,5 +1,7 @@
 ## Live Apps
 
+标 * 代表无广告，推荐使用
+
 ## HDP直播(关停)、高清直播
 http://www.hdplive.net
 
