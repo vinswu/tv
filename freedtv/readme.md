@@ -61,3 +61,5 @@ videoNavigation.json 手机版超级导航接口
 VIP解析接口： https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/vipParse.json
 
 导入完重启应用，如需简单修改域名切换到相应接口栏修改提交(修改添加必须开启局域网操作)
+
+## 微信公众号：FreeD影院
