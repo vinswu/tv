@@ -2,7 +2,7 @@
 
 [CatVodTV](https://github.com/CatVodTVOfficial/CatVodTVSpider "github 官仓")
 
-## 关于配置文件下载地址的说明
+## 猫影视2.0 关于配置文件下载地址的说明
 
 仔细看完对新手来说，1分钟学会，非常简单
 
