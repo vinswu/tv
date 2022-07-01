@@ -37,7 +37,7 @@ https://wp.wangshi520.com
 20220608  
 pglblb
 
-## 猫影视1.1.1 或9.9.9 配置接口 （不建议使用。替代方案：BiuBiu影院_999.999.999）
+## 猫影视1.1.1 或9.9.9 （不建议使用。替代方案：BiuBiu影院_999.999.999）
 
 [猫影视_9.9.9](https://www.right.com.cn/forum/thread-7240318-1-1.html ) 根据1.1.1 版本修改，修改如下：  
 1. 修改 版本号999  
@@ -46,15 +46,17 @@ pglblb
 
 >改内置接口：用MT管理器，Dex编辑器搜索 字符串 `http://127.0.0.1/mao.txt` 改成你的接口保存退出即可
 
-https://shuyuan.miaogongzi.net/shuyuan/1655947082.txt
+配置接口 （网络收集）
 
-https://shuyuan.miaogongzi.net/shuyuan/1655931260.txt
+ - https://shuyuan.miaogongzi.net/shuyuan/1655947082.txt
 
-https://shuyuan.miaogongzi.net/shuyuan/1655893657.txt
+ - https://shuyuan.miaogongzi.net/shuyuan/1655931260.txt
 
-https://shuyuan.miaogongzi.net/shuyuan/1655918598.txt
+ - https://shuyuan.miaogongzi.net/shuyuan/1655893657.txt
 
-https://shuyuan.miaogongzi.net/shuyuan/1655904686.json
+ - https://shuyuan.miaogongzi.net/shuyuan/1655918598.txt
+
+ - https://shuyuan.miaogongzi.net/shuyuan/1655904686.json
 
 ## 书源外链
 
