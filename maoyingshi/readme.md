@@ -39,6 +39,13 @@ pglblb
 
 ## 猫影视1.1.1 或9.9.9 配置接口 （不建议使用。替代方案：BiuBiu影院_999.999.999）
 
+猫影视_9.9.9 根据1.1.1 版本修改，修改如下：  
+1. 修改 版本号999  
+1. 修改 启动 点播  直播  窗口 全屏显示  
+1. 修改 内置接口 为 http://127.0.0.1/mao.txt  
+
+>改内置接口：用MT管理器，Dex编辑器搜索 字符串 http://127.0.0.1/mao.txt 改成你的接口保存退出即可
+
 https://shuyuan.miaogongzi.net/shuyuan/1655947082.txt
 
 https://shuyuan.miaogongzi.net/shuyuan/1655931260.txt
