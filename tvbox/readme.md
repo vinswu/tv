@@ -1,11 +1,9 @@
 ## TVBox
 
-~猫影视~ -> TVBox
-
-## TVBoxOSC
+## TVBoxOSC 源码库
 https://github.com/CatVodTVOfficial/TVBoxOSC
 
-## Android Builder
+## Github Action 自动编译 APK
 
 https://github.com/Wsine/android_builder
 
