@@ -7,7 +7,11 @@ https://github.com/CatVodTVOfficial/TVBoxOSC
 
 https://github.com/Wsine/android_builder
 
-## TVBox开发版
+## NP 管理器
+
+https://github.com/githubXiaowangzi/NP-Manager
+
+## TVBox 开发版
 
 https://github.com/o0HalfLife0o/TVBoxOSC
 
