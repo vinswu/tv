@@ -41,6 +41,8 @@ https://shuyuan.miaogongzi.net/shuyuan/1652339973.json
 
 [放学回家看电视](https://mp.weixin.qq.com/s/sJ2nkwxME6gwsNGT6cDPdg "微信公众号 放学回家看电视")
 
+[YuanHsing](https://github.com/YuanHsing/freed  "YuanHsing github仓库")
+
 [liu673cn](https://github.com/liu673cn/biubiu "liu673cn github仓库")
 
 [hd9211](https://github.com/hd9211/biubiu "hd9211 github仓库")
