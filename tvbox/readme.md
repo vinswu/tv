@@ -19,4 +19,8 @@ https://github.com/o0HalfLife0o/TVBoxOSC
 
 https://wds.ecsxs.com/223843.txt
 
+https://freed.yuanhsing.cf/TVBox/meowcf.json
+
 http://maoyingshi.cc/tvbox/云星日记/tvbox.json
+
+#### [YuanHsing](https://github.com/YuanHsing/freed)
