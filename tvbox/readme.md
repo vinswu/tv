@@ -21,6 +21,8 @@ https://wds.ecsxs.com/223843.txt
 
 https://freed.yuanhsing.cf/TVBox/meowcf.json
 
+https://raw.nite07.com/bl/peizhi.json
+
 http://maoyingshi.cc/tvbox/云星日记/tvbox.json
 
 #### [YuanHsing](https://github.com/YuanHsing/freed) | [liu673cn](https://github.com/liu673cn/mao)
