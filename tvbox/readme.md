@@ -23,4 +23,4 @@ https://freed.yuanhsing.cf/TVBox/meowcf.json
 
 http://maoyingshi.cc/tvbox/云星日记/tvbox.json
 
-#### [YuanHsing](https://github.com/YuanHsing/freed)
+#### [YuanHsing](https://github.com/YuanHsing/freed) | [liu673cn](https://github.com/liu673cn/mao)
