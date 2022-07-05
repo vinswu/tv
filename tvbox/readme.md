@@ -25,4 +25,8 @@ https://raw.nite07.com/bl/peizhi.json
 
 http://maoyingshi.cc/tvbox/云星日记/tvbox.json
 
+http://52qy.vaiwan.cn:8081/tvbox/
+
+https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/meowcf.json
+
 #### [YuanHsing](https://github.com/YuanHsing/freed) | [liu673cn](https://github.com/liu673cn/mao)
