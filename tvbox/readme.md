@@ -33,4 +33,4 @@ https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/meowcf.json
 
 ## 本地接口
 
-clan://localhost/存放路径/压缩包名/接口.json(或 接口.txt)
+clan://localhost/存放路径/本地配置文件夹名/接口文件名.json(或 .txt 格式文件)
