@@ -30,3 +30,7 @@ http://52qy.vaiwan.cn:8081/tvbox/
 https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/meowcf.json
 
 #### [YuanHsing](https://github.com/YuanHsing/freed) | [liu673cn](https://github.com/liu673cn/mao)
+
+## 本地接口
+
+clan://localhost/存放路径/压缩包名/接口.json(或 接口.txt)
