@@ -21,6 +21,8 @@ https://wds.ecsxs.com/223843.txt
 
 https://freed.yuanhsing.cf/TVBox/meowcf.json
 
+http://gg.gg/nite07
+
 https://raw.nite07.com/bl/peizhi.json
 
 http://maoyingshi.cc/tvbox/云星日记/tvbox.json
@@ -28,6 +30,10 @@ http://maoyingshi.cc/tvbox/云星日记/tvbox.json
 http://52qy.vaiwan.cn:8081/tvbox/
 
 https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/meowcf.json
+
+http://home.jundie.top:81/666.json
+
+https://dxawi.github.io/0/0.json
 
 ## 本地接口
 
