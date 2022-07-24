@@ -27,7 +27,7 @@ http://gg.gg/nite07
 
 https://raw.nite07.com/bl/peizhi.json
 
-http://maoyingshi.cc/tvbox/云星日记/tvbox4.json
+http://maoyingshi.cc/tvbox/云星日记/1.json
 
 http://52qy.vaiwan.cn:8081/tvbox/
 
