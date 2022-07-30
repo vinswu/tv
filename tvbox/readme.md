@@ -33,7 +33,7 @@ https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
 
 http://maoyingshi.cc/tvbox/云星日记/1.json
 
-[GitHub Proxy 代理加速](https://ghproxy.com/)
+> GitHub Proxy 代理加速 https://ghproxy.com/
 
 ## 本地接口
 
