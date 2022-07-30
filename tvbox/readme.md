@@ -23,17 +23,11 @@ https://freed.yuanhsing.cf/TVBox/meowcf.json
 
 https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
+https://dxawi.github.io/0/0.json
+
 https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
 
 http://maoyingshi.cc/tvbox/云星日记/1.json
-
-http://52qy.vaiwan.cn:8081/tvbox/
-
-https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/meowcf.json
-
-http://home.jundie.top:81/666.json
-
-https://dxawi.github.io/0/0.json
 
 ## 本地接口
 
