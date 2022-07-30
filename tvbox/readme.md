@@ -33,6 +33,8 @@ https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
 
 http://maoyingshi.cc/tvbox/云星日记/1.json
 
+[GitHub Proxy 代理加速](https://ghproxy.com/)
+
 ## 本地接口
 
 clan://localhost/存放路径/本地配置文件夹名/接口文件名.json（或 .txt 格式文件）
