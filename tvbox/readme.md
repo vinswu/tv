@@ -23,10 +23,6 @@ https://freed.yuanhsing.cf/TVBox/meowcf.json
 
 https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
-http://gg.gg/nite07
-
-https://raw.nite07.com/bl/peizhi.json
-
 https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
 
 http://maoyingshi.cc/tvbox/云星日记/1.json
