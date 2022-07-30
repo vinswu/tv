@@ -19,7 +19,11 @@ https://github.com/o0HalfLife0o/TVBoxOSC
 
 https://wds.ecsxs.com/223843.txt
 
+https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json
+
 https://freed.yuanhsing.cf/TVBox/meowcf.json
+
+https://raw.githubusercontent.com/liu673cn/box/main/m.json
 
 https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
