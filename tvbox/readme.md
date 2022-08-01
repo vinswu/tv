@@ -15,9 +15,9 @@ https://github.com/githubXiaowangzi/NP-Manager
 
 https://github.com/o0HalfLife0o/TVBoxOSC
 
-## Pluto Player
+## 其他版本
 
-https://github.com/pluto-player/pluto-player
+Pluto Player https://github.com/pluto-player/pluto-player
 
 ## 在线接口
 
