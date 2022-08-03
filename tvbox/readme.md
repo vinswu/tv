@@ -17,7 +17,7 @@ https://github.com/o0HalfLife0o/TVBoxOSC
 
 ## 其他版本
 
-Pluto Player https://github.com/pluto-player/pluto-player
+Pluto Player https://github.com/pluto-player/updates/releases
 
 ## 在线接口
 
