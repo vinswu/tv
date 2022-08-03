@@ -1,6 +1,7 @@
 ## TVBox
 
 ## TVBoxOSC 源码库
+
 https://github.com/CatVodTVOfficial/TVBoxOSC
 
 ## Github Action 自动编译 APK
@@ -13,7 +14,7 @@ https://github.com/githubXiaowangzi/NP-Manager
 
 ## TVBox 开发版
 
-https://github.com/o0HalfLife0o/TVBoxOSC
+https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
 ## 其他版本
 
