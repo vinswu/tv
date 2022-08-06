@@ -26,9 +26,8 @@ yuanhsing https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.js
 
 yuanhsing 备 https://freed.yuanhsing.cf/TVBox/meowcf.json
 
-liu673cn https://raw.githubusercontent.com/liu673cn/box/main/m.json
-
-liu673cn 备 https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+liu673cn https://raw.githubusercontent.com/liu673cn/box/main/dc.json
+liu673cn 备 https://liucn.cc/box/dc.json
 
 dxawi https://dxawi.github.io/0/0.json
 
