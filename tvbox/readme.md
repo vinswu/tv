@@ -37,7 +37,7 @@ dxawi 备 https://dxawi.github.io/0/0.json
 
 巧技 https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
 
-云星日记 http://maoyingshi.cc/tvbox/云星日记/1.json
+云星日记 http://maoyingshi.cc/tvbox/云星日记/1.m3u8
 
 ## GitHub Proxy 代理加速
 
