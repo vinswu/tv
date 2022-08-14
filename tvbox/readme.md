@@ -33,11 +33,11 @@ dxawi 备 https://dxawi.github.io/0/0.json
 
 分享迷 https://wds.ecsxs.com/223843.txt
 
+晴园 https://ygyzy.github.io/api/qy.m3u8
+
 巧技 https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
 
 云星日记 http://maoyingshi.cc/tvbox/云星日记/1.json
-
-吾爱有三 http://52bsj.vip:98/tvbox1
 
 ## GitHub Proxy 代理加速
 
