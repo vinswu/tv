@@ -33,9 +33,9 @@ dxawi 备 https://dxawi.github.io/0/0.json
 
 公众号：分享迷 https://wds.ecsxs.com/223843.txt
 
-公众号：晴园 https://ygyzy.github.io/api/qy.m3u8
-
 公众号：巧技 https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
+
+公众号：晴园 https://ygyzy.github.io/api/qy.m3u8
 
 公众号：云星日记 http://maoyingshi.cc/tvbox/云星日记/1.m3u8
 
