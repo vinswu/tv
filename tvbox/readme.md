@@ -25,8 +25,8 @@ Pluto Player https://github.com/pluto-player/updates/releases
 yuanhsing https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json  
 yuanhsing 备 https://freed.yuanhsing.cf/TVBox/meowcf.json
 
-liu673cn https://raw.githubusercontent.com/liu673cn/box/main/dc.json  
-liu673cn 备 https://liucn.cc/box/dc.json
+liu673cn https://raw.githubusercontent.com/liu673cn/box/main/m.json  
+liu673cn 备 https://liucn.cc/box/m.json
 
 dxawi https://github.com/dxawi/0/blob/main/0.json  
 dxawi 备 https://dxawi.github.io/0/0.json
