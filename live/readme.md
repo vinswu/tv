@@ -17,7 +17,7 @@ http://www.xiaojingtv.com/
 ## 火星直播  
 http://tvhuoxing.com
 
-## 云海电池*  
+## 云海电视*  
 http://www.yunhitv.com
 
 ## 酷看直播、超级iTV*  
