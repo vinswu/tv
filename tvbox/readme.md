@@ -28,7 +28,7 @@ yuanhsing 备 https://freed.yuanhsing.cf/TVBox/meowcf.json
 liu673cn https://raw.githubusercontent.com/liu673cn/box/main/m.json  
 liu673cn 备 https://raw.liucn.cc/box/m.json
 
-dxawi https://github.com/dxawi/0/blob/main/0.json  
+dxawi https://raw.githubusercontent.com/dxawi/0/main/0.json  
 dxawi 备 https://dxawi.github.io/0/0.json
 
 FongMi https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json  
