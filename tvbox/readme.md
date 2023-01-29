@@ -31,7 +31,7 @@ liu673cn 备 https://raw.liucn.cc/box/m.json
 dxawi https://github.com/dxawi/0/blob/main/0.json  
 dxawi 备 https://dxawi.github.io/0/0.json
 
-FongMi https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
+FongMi https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json  
 代理加速 https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
 
 公众号：云星日记 https://maoyingshi.cc/tvbox/云星日记/1.m3u8
