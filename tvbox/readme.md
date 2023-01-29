@@ -50,4 +50,4 @@ https://ghproxy.com/
 
 clan://localhost/存放路径/本地配置文件夹名/接口文件名.json（或 .txt 格式文件）
 
-#### [YuanHsing](https://github.com/YuanHsing/freed) | [liu673cn](https://github.com/liu673cn/box) | [FongMi](https://github.com/FongMi/CatVodSpider)
+#### [YuanHsing](https://github.com/YuanHsing/freed) | [liu673cn](https://github.com/liu673cn/box) | [dxawi](https://github.com/dxawi/0) | [FongMi](https://github.com/FongMi/CatVodSpider)
