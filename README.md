@@ -1,6 +1,4 @@
-## vinswu.github.io
-
-Android TV Apps
+# Android TV Apps
 
 ### 电视直播
 
