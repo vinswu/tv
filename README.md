@@ -8,4 +8,4 @@ https://www.idianshijia.com
 ### 影视点播
 
 TVBox  
-https://github.com/o0HalfLife0o/TVBoxOSC/releases
+https://github.com/o0HalfLife0o/TVBoxOSC
