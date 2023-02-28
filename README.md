@@ -7,5 +7,5 @@ https://www.idianshijia.com
 
 ### 影视点播
 
-TVBox  
+TVBox [配置地址](https://www.yydsys.top/box/api/)   
 https://github.com/o0HalfLife0o/TVBoxOSC
