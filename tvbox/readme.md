@@ -16,10 +16,6 @@ https://github.com/githubXiaowangzi/NP-Manager
 
 https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
-## 其他版本
-
-Pluto Player https://github.com/pluto-player/updates/releases
-
 ## 在线接口
 
 yuanhsing https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json  
