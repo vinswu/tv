@@ -7,7 +7,7 @@ https://www.idianshijia.com
 
 ### 影视点播
 
-TVBox [配置地址](https://www.yydsys.top/box/api/)   
+TVBox [配置地址](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox)   
 https://github.com/o0HalfLife0o/TVBoxOSC/releases  
 https://github.com/pluto-player/updates/releases  
 https://github.com/FongMi/TV/releases
