@@ -36,9 +36,9 @@ FongMi https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.js
 
 公众号：肥猫不肥 http://我不是.肥猫.love:63/接口禁止贩卖
 
-公众号：分享迷 
+公众号：巧技 https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
 
-公众号：巧技 
+公众号：分享迷 
 
 ## GitHub Proxy 代理加速
 
