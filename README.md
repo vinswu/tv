@@ -10,5 +10,5 @@ https://www.idianshijia.com
 TVBox [配置地址](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox)   
 https://github.com/o0HalfLife0o/TVBoxOSC/releases  
 https://github.com/pluto-player/updates/releases  
-https://github.com/FongMi/TV/releases
+https://github.com/FongMi/TV/releases  
 https://github.com/FongMi/Release
