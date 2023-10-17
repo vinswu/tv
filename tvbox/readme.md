@@ -12,10 +12,6 @@ https://github.com/Wsine/android_builder
 
 https://github.com/githubXiaowangzi/NP-Manager
 
-## TVBox 开发版
-
-https://github.com/o0HalfLife0o/TVBoxOSC/releases
-
 ## 在线接口
 
 俊于 http://home.jundie.top:81/top98.json
@@ -32,13 +28,13 @@ dxawi 备 https://dxawi.github.io/0/0.json
 FongMi https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json  
 代理加速 https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
 
-公众号：云星日记 http://itvbox.cc/tvbox/云星日记/1.m3u8
+公众号：神秘的哥哥们 http://饭太硬.top/tv
 
 公众号：肥猫不肥 http://我不是.肥猫.love:63/接口禁止贩卖
 
-公众号：巧技 https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
+公众号：云星日记 http://itvbox.cc/tvbox/云星日记/1.m3u8
 
-公众号：分享迷 
+公众号：巧技 https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
 
 ## GitHub Proxy 代理加速
 
