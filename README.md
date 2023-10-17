@@ -1,9 +1,17 @@
 # Android TV Apps
 
+### 应用市场
+
+[当贝市场](https://www.dangbei.com/app/)  
+[沙发管家](http://app.shafa.com/)  
+[Emotn Store](https://app.emotn.com/)  
+[美家市场](https://www.mjapk.com/mjapp/)
+
 ### 电视直播
 
 电视家：电视家3.0、电视直播(原:电视家2.0)、[电视直播酒店版(原:电视家极速版)](https://vinswu.lanzoue.com/iqCq60ob0ybg)、电视家海外版  
-https://www.idianshijia.com
+https://www.idianshijia.com  
+https://www.tvapk.net
 
 ### 影视点播
 
