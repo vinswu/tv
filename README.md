@@ -9,9 +9,12 @@
 
 ### 电视直播
 
-电视家：电视家3.0、电视直播(原:电视家2.0)、[电视直播酒店版(原:电视家极速版)](https://vinswu.lanzoue.com/iqCq60ob0ybg)、电视家海外版  
+电视家系列：电视家3.0；电视直播(原:电视家2.0)；[电视直播酒店版(原:电视家极速版)](https://vinswu.lanzoue.com/iqCq60ob0ybg)；电视家海外版  
 https://www.idianshijia.com  
 https://www.tvapk.net
+
+电视多系列：[小鲸电视](http://www.xiaojingtv.com/)；云海直播；酷看直播；太阳直播；[超级ITV](https://vinswu.lanzoue.com/iKEEB1c11mra)
+
 
 ### 影视点播
 
