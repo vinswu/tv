@@ -16,6 +16,9 @@ https://github.com/githubXiaowangzi/NP-Manager
 
 俊于 http://home.jundie.top:81/top98.json
 
+FongMi https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json  
+代理加速 https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
+
 yuanhsing https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json  
 yuanhsing 备 https://freed.yuanhsing.cf/TVBox/meowcf.json
 
@@ -23,10 +26,7 @@ liu673cn https://raw.githubusercontent.com/liu673cn/box/main/m.json
 liu673cn 备 https://raw.liucn.cc/box/m.json
 
 dxawi https://raw.githubusercontent.com/dxawi/0/main/0.json  
-dxawi 备 https://dxawi.github.io/0/0.json
-
-FongMi https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json  
-代理加速 https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
+dxawi 备 https://xhdwc.tk/0
 
 公众号：神秘的哥哥们 http://饭太硬.top/tv
 
