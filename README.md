@@ -18,6 +18,6 @@ https://www.tvapk.net
 
 ### 影视点播
 
-TVBox [配置地址](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox)   
+TVBox [配置地址](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口)   
 https://github.com/o0HalfLife0o/TVBoxOSC/releases   
 https://github.com/FongMi/Release
