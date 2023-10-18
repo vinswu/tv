@@ -1,8 +1,10 @@
-## TVBox
-
-## TVBoxOSC 源码库
+## TVBoxOSC 源码仓
 
 https://github.com/CatVodTVOfficial/TVBoxOSC
+
+##  AlphaTV（影视）源码仓
+
+https://github.com/FongMi/TV
 
 ## Github Action 自动编译 APK
 
