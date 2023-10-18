@@ -33,6 +33,8 @@ ABC接口：https://agit.ai/n/b/raw/branch/a/b/c.json
 
 公众号：云星日记  接口：http://itvbox.cc/tvbox/云星日记/1.m3u8
 
+公众号：应用多多 接口：https://yydsys.top/duo
+
 公众号：巧技  接口1：https://agit.ai/relax/adcc/raw/branch/master/tvbox.json  接口2：http://pandown.pro/tvbox/tvbox.json
 
 公众号：神秘的哥哥们  饭太硬接口：http://饭太硬.top/tv  小米DEMO接口：http://xhww.fun:63/小米/DEMO.json
