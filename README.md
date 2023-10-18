@@ -15,9 +15,9 @@ https://www.tvapk.net
 
 电视多系列：[小鲸电视](http://www.xiaojingtv.com/)；云海直播；酷看直播；太阳直播；[超级ITV](https://vinswu.lanzoue.com/iKEEB1c11mra)
 
-
 ### 影视点播
 
 TVBox [配置地址](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口)   
 https://github.com/o0HalfLife0o/TVBoxOSC/releases   
+https://github.com/o0HalfLife0o/AlphaTV/releases  
 https://github.com/FongMi/Release
