@@ -31,13 +31,13 @@ dxawi接口3：https://xhdwc.tk/0
 
 ABC接口：https://agit.ai/n/b/raw/branch/a/b/c.json
 
-公众号：神秘的哥哥们  饭太硬接口：http://饭太硬.top/tv  小米DEMO接口：http://xhww.fun:63/小米/DEMO.json
-
-公众号：肥猫宝贝  接口1：http://我不是.肥猫.love:63/接口禁止贩卖  接口2：http://我不是.肥猫.love:63/
-
 公众号：云星日记  接口：http://itvbox.cc/tvbox/云星日记/1.m3u8
 
 公众号：巧技  接口1：https://agit.ai/relax/adcc/raw/branch/master/tvbox.json  接口2：http://pandown.pro/tvbox/tvbox.json
+
+公众号：神秘的哥哥们  饭太硬接口：http://饭太硬.top/tv  小米DEMO接口：http://xhww.fun:63/小米/DEMO.json
+
+公众号：肥猫宝贝  接口1：http://我不是.肥猫.love:63/接口禁止贩卖  接口2：http://我不是.肥猫.love:63/
 
 ## GitHub Proxy 代理加速
 
