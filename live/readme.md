@@ -30,10 +30,6 @@ https://github.com/iptv-org/iptv
 
     https://iptv-org.github.io/iptv/index.m3u
 
-https://github.com/Free-TV/IPTV
-
-    https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-
 https://github.com/fanmingming/live
 
     https://live.fanmingming.com/tv/m3u/global.m3u
