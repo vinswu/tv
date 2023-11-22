@@ -9,7 +9,7 @@
 
 ### 电视直播
 
-TivoMate、IPTV PRO、OTT Navigator[推荐播放源](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源)
+TivoMate、Perfect Player、IPTV PRO、OTT Navigator[推荐播放源](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源)
 
 电视家系列：电视家3.0；电视直播(原:电视家2.0)；[电视直播酒店版(原:电视家极速版)](https://vinswu.lanzoue.com/iqCq60ob0ybg)；电视家海外版  
 https://www.idianshijia.com  
