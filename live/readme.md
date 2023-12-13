@@ -35,3 +35,5 @@ https://github.com/fanmingming/live
     https://live.fanmingming.com/tv/m3u/global.m3u
 
 Ftindy精选合集：https://github.com/Ftindy/IPTV-URL
+
+IPTVindex：https://iptvindex.com
