@@ -21,5 +21,4 @@ https://www.tvapk.net
 
 TVBox [配置地址](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口)   
 https://github.com/o0HalfLife0o/TVBoxOSC/releases   
-https://github.com/o0HalfLife0o/AlphaTV/releases  
 https://github.com/FongMi/Release
