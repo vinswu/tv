@@ -2,9 +2,9 @@
 
 ### 应用市场
 
+[Emotn Store](https://app.emotn.com/)  
 [当贝市场](https://www.dangbei.com/app/)  
 [沙发管家](http://app.shafa.com/)  
-[Emotn Store](https://app.emotn.com/)  
 [乐家市场](https://www.mylejia.com/market)  
 [美家市场](https://www.mjapk.com/mjapp/)
 
