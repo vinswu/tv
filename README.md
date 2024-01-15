@@ -10,7 +10,7 @@
 
 ### 电视直播[源](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源)
 
-电视直播壳 [1] 支持M3U TivoMate、Perfect Player [2] 支持TXT DIYP  
+电视直播壳 [1] 支持M3U的软件 TivoMate、Perfect Player  [2] 支持TXT的软件 DIYP  
 
 电视直播软件 下载 https://vinswu.lanzouu.com/b0e6di7ze 密码 cgzn  
 
