@@ -32,4 +32,10 @@ TVBox https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
 当贝播放器 https://www.dangbei.com/player/ *集合百度网盘、阿里云盘*  
 
+百度网盘 https://pan.baidu.com/download  
+
+夸克网盘 https://pan.quark.cn/  
+
+阿里云盘 https://aliyunpantv.pages.dev/download.html  
+
 迅雷云盘 https://tv.xunlei.com/  
