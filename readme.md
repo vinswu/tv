@@ -10,8 +10,8 @@
 ### 应用市场
 
 [Emotn Store](https://app.emotn.com/)  
-[当贝市场](https://www.dangbei.com/app/)  
-[沙发管家](http://app.shafa.com/)  
+[当贝市场](https://www.dangbei.com/apps/)  
+[沙发管家](https://www.shafa.com/market)  
 [蚂蚁市场](http://www.mayiapk.com/) *网站已经打不开*  
 [乐家市场](https://www.mylejia.com/market) *与乐家桌面不是一家*  
 [美家市场](https://www.mjapk.com/mjapp/)  
