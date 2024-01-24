@@ -26,3 +26,9 @@
 TVBox https://github.com/o0HalfLife0o/TVBoxOSC/releases   
 
 影视 https://github.com/FongMi/Release
+
+### 网盘云播
+
+当贝播放器 https://www.dangbei.com/player/ *集合百度网盘、阿里云盘*  
+
+迅雷云盘 https://tv.xunlei.com/  
