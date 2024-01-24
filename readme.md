@@ -10,6 +10,7 @@
 
 [Emotn Store](https://app.emotn.com/)  
 [当贝市场](https://www.dangbei.com/apps/)  
+[沙发管家](https://www.shafa.com/market)  
 [美家市场](https://www.mjapk.com/mjapp/)  
 [野草助手](https://www.yecao.fun/)
 
