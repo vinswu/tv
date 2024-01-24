@@ -33,3 +33,5 @@ https://github.com/iptv-org/iptv
 Ftindy精选合集：https://github.com/Ftindy/IPTV-URL
 
 IPTVindex：https://iptvindex.com
+
+自用家庭接口：https://gitee.com/vinswu/tv/raw/master/live.txt
