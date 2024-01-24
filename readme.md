@@ -6,7 +6,8 @@
 [当贝市场](https://www.dangbei.com/app/)  
 [沙发管家](http://app.shafa.com/)  
 [乐家市场](https://www.mylejia.com/market)  
-[美家市场](https://www.mjapk.com/mjapp/)
+[美家市场](https://www.mjapk.com/mjapp/)  
+[野草助手](https://www.yecao.fun/)
 
 ### 电视直播[源](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源)
 
