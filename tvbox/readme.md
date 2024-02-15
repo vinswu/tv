@@ -62,7 +62,7 @@ GitHub：dxawi 接口2
 
 公众号：神秘的哥哥们 饭太硬接口：
 
-    http://饭太硬.top/tv
+    http://www.饭太硬.top/tv
   
 公众号：神秘的哥哥们 小米DEMO接口：
 
