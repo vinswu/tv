@@ -27,7 +27,7 @@ ABC接口：
 GitHub：FongMi 接口
 
     https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
-
+   
 GitHub：liu673cn 接口
 
     https://raw.liucn.cc/box/m.json
@@ -56,10 +56,6 @@ GitHub：dxawi 接口2
 
     http://pandown.pro/tvbox/tvbox.json
 
-公众号：肥猫宝贝 接口：
-
-    http://我不是.肥猫.love:63/接口禁止贩卖
-
 公众号：神秘的哥哥们 饭太硬接口：
 
     http://www.饭太硬.top/tv
@@ -67,6 +63,18 @@ GitHub：dxawi 接口2
 公众号：神秘的哥哥们 小米DEMO接口：
 
     http://xhww.fun:63/小米/DEMO.json
+
+公众号：肥猫宝贝 接口1：
+
+    http://肥猫.live
+
+公众号：肥猫宝贝 接口2：
+
+    http://我不是.肥猫.live
+
+公众号：OK猫影 接口
+
+    https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt
 
 ## GitHub Proxy 代理加速
 
