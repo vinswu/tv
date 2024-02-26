@@ -44,10 +44,6 @@ GitHub：dxawi 接口2
 
     http://itvbox.cc/tvbox/云星日记/1.m3u8
 
-公众号：应用多多 接口：
-
-    https://yydsys.top/duo
-
 公众号：巧技 接口1：
 
     https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
