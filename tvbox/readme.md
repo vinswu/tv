@@ -16,29 +16,25 @@ https://github.com/githubXiaowangzi/NP-Manager
 
 ## 在线接口
 
-俊于 接口
+TVBOX俊于 接口
 
     http://home.jundie.top:81/top98.json
+
+影视FongMi 接口
+
+    https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
 
 ABC接口：
 
     https://agit.ai/n/b/raw/branch/a/b/c.json
 
-GitHub：FongMi 接口
-
-    https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
-   
-GitHub：liu673cn 接口
-
-    https://raw.liucn.cc/box/m.json
-
-GitHub：dxawi 接口1
+GitHub：dxawi 接口
 
     https://dxawi.github.io/0/0.json
 
-GitHub：dxawi 接口2
+GitHub：liu673cn 接口
 
-    https://xhdwc.tk/0
+    https://raw.liucn.cc/box/m.json
 
 公众号：云星日记 接口：
 
