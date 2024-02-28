@@ -22,6 +22,7 @@ TVBox https://github.com/o0HalfLife0o/TVBoxOSC/releases
 ### 网盘云播
 
 [当贝播放器](https://www.dangbei.com/player/) 可登录[百度网盘](https://pan.baidu.com/download)、[阿里云盘](https://www.alipan.com/download/tvdownload)等网盘  
-[夸克网盘](https://pan.quark.cn/)  
 [迅雷云盘](https://tv.xunlei.com/)  
+[UC网盘](https://drive.uc.cn/)  
+[夸克网盘](https://pan.quark.cn/)  
 [阿里云盘(第三方）](https://aliyunpantv.pages.dev/download.html)  
