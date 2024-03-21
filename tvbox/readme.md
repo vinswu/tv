@@ -64,9 +64,13 @@ abc 接口：
 
     http://我不是.肥猫.live
 
-公众号：OK猫影 接口
+公众号：OK猫影 接口1
 
     https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt
+
+公众号：OK猫影 接口2
+
+    http://ok321.top/tv
 
 ## GitHub Proxy 代理加速
 
