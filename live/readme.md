@@ -25,13 +25,13 @@ http://kutvv.com/
 
 # 直播源
 
-https://github.com/iptv-org/iptv
+iptv-org：https://github.com/iptv-org/iptv
 
-    https://iptv-org.github.io/iptv/index.m3u
-
-Ftindy精选合集：https://github.com/Ftindy/IPTV-URL
+Ftindy：https://github.com/Ftindy/IPTV-URL
 
 IPTVindex：https://iptvindex.com
+
+qist：https://github.com/qist/tvbox/blob/master/tvlive.txt
 
 自用接口：
 
