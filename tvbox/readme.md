@@ -46,7 +46,7 @@ abc 接口：
 
 公众号：云星日记 接口：
 
-    http://itvbox.cc/tvbox/云星日记/1.m3u8
+    http://itvbox.cc/云星日记
 
 公众号：神秘的哥哥们 饭太硬接口：
 
