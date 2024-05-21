@@ -66,7 +66,7 @@ abc 接口：
 
 公众号：OK猫影 接口1
 
-    https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt
+    https://gitee.com/okjack/okk/raw/master/ok.txt
 
 公众号：OK猫影 接口2
 
