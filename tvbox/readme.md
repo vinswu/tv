@@ -50,7 +50,7 @@ abc 接口：
 
 公众号：神秘的哥哥们 饭太硬接口：
 
-    http://www.饭太硬.top/tv
+    http://www.饭太硬.com/tv
   
 公众号：神秘的哥哥们 小米DEMO接口：
 
