@@ -46,7 +46,7 @@ GitHub：dxawi 接口
   
 公众号：神秘的哥哥们 小米DEMO接口：
 
-    http://xhww.fun/小米/DEMO.json
+    http://www.mpanso.com/小米/DEMO.json
 
 公众号：肥猫宝贝 接口1：
 
