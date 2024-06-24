@@ -17,7 +17,8 @@
 ### [影视点播](https://vinswu.lanzouw.com/b0e6mo2aj "密码1024")[源](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口)
 
 TVBox https://github.com/o0HalfLife0o/TVBoxOSC/releases   
-影视 https://github.com/FongMi/Release
+影视 https://github.com/FongMi/Release  
+[OK影视](https://pan.xunlei.com/s/VNpD7k6FLpuz5kIVU1E4Sd9AA1?pwd=mzsc# "FongMi更新到2.2.0版本后，将项目交给okcaptain更新；okcaptain在2.3.4版本时将“影视”更名为“OK影视”")   
 
 ### 网盘云播
 
