@@ -32,14 +32,6 @@ GitHub：dxawi 接口
 
     https://dxawi.github.io/0/0.json
 
-abc 接口：
-
-    https://agit.ai/n/b/raw/branch/a/b/c.json
-
-巧技 接口：
-
-    https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
-
 公众号：云星日记 接口：
 
     http://itvbox.cc/云星日记
