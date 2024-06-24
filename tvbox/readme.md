@@ -56,11 +56,11 @@ GitHub：dxawi 接口
 
     http://我不是.肥猫.live
 
-公众号：OK猫影 接口1
+公众号：OK猫开发 接口1
 
     https://gitee.com/okjack/okk/raw/master/ok.txt
 
-公众号：OK猫影 接口2
+公众号：OK猫开发 接口2
 
     http://ok321.top/tv
 
