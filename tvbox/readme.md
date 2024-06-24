@@ -36,7 +36,7 @@ GitHub：dxawi 接口
 
     http://itvbox.cc/云星日记
 
-公众号：巧记
+公众号：巧记 接口
 
     http://cdn.qiaoji8.com/tvbox.json
 
