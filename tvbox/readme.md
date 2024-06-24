@@ -40,10 +40,6 @@ abc 接口：
 
     https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
 
-运输车 接口
-
-    https://weixine.net/ysc.json
-
 公众号：云星日记 接口：
 
     http://itvbox.cc/云星日记
