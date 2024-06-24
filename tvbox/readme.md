@@ -32,9 +32,13 @@ GitHub：dxawi 接口
 
     https://dxawi.github.io/0/0.json
 
-公众号：云星日记 接口：
+公众号：云星日记 接口
 
     http://itvbox.cc/云星日记
+
+公众号：巧记
+
+    http://cdn.qiaoji8.com/tvbox.json
 
 公众号：神秘的哥哥们 饭太硬接口：
 
