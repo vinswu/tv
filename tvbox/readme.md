@@ -48,17 +48,21 @@ GitHub：dxawi 接口
 
     http://www.mpanso.com/小米/DEMO.json
 
-公众号：肥猫宝贝 接口1：
-
-    http://肥猫.live
-
-公众号：肥猫宝贝 接口2：
+公众号：肥猫宝贝 接口1
 
     http://我不是.肥猫.live
 
-公众号：OK猫开发 接口
+公众号：肥猫宝贝 接口2
+
+    http://肥猫.live
+
+公众号：OK猫开发 接口1
 
     http://ok321.top/tv
+
+公众号：OK猫开发 接口2
+
+    http://ok321.top/ok
 
 ## GitHub Proxy 代理加速
 
