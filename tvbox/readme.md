@@ -50,11 +50,11 @@ GitHub：dxawi 接口
 
 公众号：肥猫宝贝 接口1
 
-    http://肥猫.com
+    http://肥猫.live
 
 公众号：肥猫宝贝 接口2
 
-    http://肥猫.live
+    http://肥猫.com
 
 公众号：OK猫开发 接口1
 
