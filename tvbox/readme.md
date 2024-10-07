@@ -36,10 +36,6 @@ GitHub：dxawi 接口
 
     http://itvbox.cc/云星日记
 
-公众号：巧记 接口
-
-    http://cdn.qiaoji8.com/tvbox.json
-
 公众号：神秘的哥哥们 饭太硬接口：
 
     http://www.饭太硬.com/tv
@@ -48,21 +44,17 @@ GitHub：dxawi 接口
 
     http://www.mpanso.com/小米/DEMO.json
 
-公众号：肥猫宝贝 接口1
+公众号：王二小放牛娃 接口
 
-    http://肥猫.live
+    http://tvbox.王二小放牛娃.top
 
-公众号：肥猫宝贝 接口2
+公众号：肥猫宝贝 接口
 
     http://肥猫.com
 
-公众号：OK猫开发 接口1
+公众号：OK猫开发 接口
 
     http://ok321.top/tv
-
-公众号：OK猫开发 接口2
-
-    http://ok321.top/ok
 
 ## GitHub Proxy 代理加速
 
