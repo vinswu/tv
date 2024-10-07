@@ -16,15 +16,15 @@ https://github.com/githubXiaowangzi/NP-Manager
 
 ## 在线接口
 
-俊于TVBOX 接口
+TVBOX 俊于 接口
 
     http://home.jundie.top:81/top98.json
 
-FongMi影视 接口
+影视 FongMi 接口
 
     https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
 
-OK影视 接口
+OK影视 OK 接口
 
     http://ok321.top/tv
 
