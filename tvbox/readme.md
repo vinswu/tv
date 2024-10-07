@@ -16,13 +16,17 @@ https://github.com/githubXiaowangzi/NP-Manager
 
 ## 在线接口
 
-TVBOX俊于 接口
+俊于TVBOX 接口
 
     http://home.jundie.top:81/top98.json
 
-影视FongMi 接口
+FongMi影视 接口
 
     https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
+
+OK影视 接口
+
+    http://ok321.top/tv
 
 GitHub：liu673cn 接口
 
@@ -51,10 +55,6 @@ GitHub：dxawi 接口
 公众号：肥猫宝贝 接口
 
     http://肥猫.com
-
-公众号：OK猫开发 接口
-
-    http://ok321.top/tv
 
 ## GitHub Proxy 代理加速
 
