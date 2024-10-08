@@ -10,9 +10,19 @@ https://github.com/FongMi/TV
 
 https://github.com/Wsine/android_builder
 
-## NP 管理器
+## NP 管理器（签名APK）
 
 https://github.com/githubXiaowangzi/NP-Manager
+
+## TVBox 发布
+
+https://github.com/o0HalfLife0o/TVBoxOSC/releases
+
+https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases
+
+## 影视 发布
+
+https://github.com/FongMi/Release
 
 ## 在线接口
 
