@@ -4,7 +4,7 @@
 
 https://github.com/CatVodTVOfficial/TVBoxOSC
 
-####  TVBox 发布页
+####  TVBox 发布页 下载 APK
 
 https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
@@ -16,7 +16,7 @@ https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases
 
 https://github.com/FongMi/TV
 
-#### 影视 发布
+#### 影视 发布页 下载 APK
 
 https://github.com/FongMi/Release
 
