@@ -70,4 +70,4 @@ clan://localhost/存放路径/本地配置文件夹名/接口文件名.json（�
 
 #### [Github Action 自动编译 APK](https://github.com/Wsine/android_builder) | [NP 管理器 APK 签名](https://github.com/githubXiaowangzi/NP-Manager) | [GitHub Proxy 代理加速](https://ghproxy.com/)
 
-#### [YuanHsing](https://github.com/YuanHsing/freed) | [liu673cn](https://github.com/liu673cn/box) | [gaotianliuyun](https://github.com/gaotianliuyun/gao) | [dxawi](https://github.com/dxawi/0) | [qist](https://github.com/qist/tvbox)
+#### [YuanHsing](https://github.com/YuanHsing/freed) | [liu673cn](https://github.com/liu673cn/box) | [gaotianliuyun](https://github.com/gaotianliuyun/gao) | [qist](https://github.com/qist/tvbox) | [dxawi](https://github.com/dxawi/0)
