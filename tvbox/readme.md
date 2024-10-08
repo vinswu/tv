@@ -1,26 +1,22 @@
-## TVBoxOSC 源码仓
+## TVBox
+
+#### TVBoxOSC 源码仓
 
 https://github.com/CatVodTVOfficial/TVBoxOSC
 
-##  AlphaTV（影视）源码仓
-
-https://github.com/FongMi/TV
-
-## Github Action 自动编译 APK
-
-https://github.com/Wsine/android_builder
-
-## NP 管理器（签名APK）
-
-https://github.com/githubXiaowangzi/NP-Manager
-
-## TVBox 发布
+####  TVBox 发布页
 
 https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
 https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases
 
-## 影视 发布
+##  影视
+
+#### AlphaTV（影视）源码仓
+
+https://github.com/FongMi/TV
+
+#### 影视 发布
 
 https://github.com/FongMi/Release
 
@@ -75,5 +71,7 @@ https://ghproxy.com/
 clan://localhost/存放路径/本地配置文件夹名/接口文件名.json（或 .txt 格式文件）
 
 ## 其他
+
+#### [Github Action 自动编译 APK](https://github.com/Wsine/android_builder) | [NP 管理器 APK 签名）](https://github.com/githubXiaowangzi/NP-Manager)
 
 #### [YuanHsing](https://github.com/YuanHsing/freed) | [liu673cn](https://github.com/liu673cn/box) | [dxawi](https://github.com/dxawi/0) | [qist](https://github.com/qist/tvbox) | [FongMi](https://github.com/FongMi/CatVodSpider) 
