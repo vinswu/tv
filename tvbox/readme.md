@@ -1,10 +1,10 @@
 ## TVBox
 
-#### TVBoxOSC 源码仓
+#### TVBox 源码仓
 
 https://github.com/CatVodTVOfficial/TVBoxOSC
 
-####  TVBox 发布页 下载 APK
+####  TVBox 发布页
 
 https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
@@ -12,11 +12,11 @@ https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases
 
 ##  影视
 
-#### AlphaTV（影视）源码仓
+#### 影视 源码仓
 
 https://github.com/FongMi/TV
 
-#### 影视 发布页 下载 APK
+#### 影视 发布页
 
 https://github.com/FongMi/Release
 
