@@ -40,6 +40,10 @@ GitHub：dxawi 接口
 
     http://itvbox.cc/云星日记
 
+公众号：肥猫宝贝 接口
+
+    http://肥猫.com
+
 公众号：神秘的哥哥们 饭太硬接口：
 
     http://www.饭太硬.com/tv
@@ -51,10 +55,6 @@ GitHub：dxawi 接口
 公众号：王二小放牛娃 接口
 
     http://tvbox.王二小放牛娃.top
-
-公众号：肥猫宝贝 接口
-
-    http://肥猫.com
 
 ## GitHub Proxy 代理加速
 
