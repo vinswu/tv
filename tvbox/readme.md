@@ -62,16 +62,12 @@ GitHub：dxawi 接口
 
     http://tvbox.王二小放牛娃.top
 
-## GitHub Proxy 代理加速
-
-https://ghproxy.com/
-
-## 本地接口
+## 本地接口配置方法
 
 clan://localhost/存放路径/本地配置文件夹名/接口文件名.json（或 .txt 格式文件）
 
 ## 其他
 
-#### [Github Action 自动编译 APK](https://github.com/Wsine/android_builder) | [NP 管理器 APK 签名](https://github.com/githubXiaowangzi/NP-Manager)
+#### [Github Action 自动编译 APK](https://github.com/Wsine/android_builder) | [NP 管理器 APK 签名](https://github.com/githubXiaowangzi/NP-Manager) | [GitHub Proxy 代理加速](https://ghproxy.com/)
 
 #### [YuanHsing](https://github.com/YuanHsing/freed) | [liu673cn](https://github.com/liu673cn/box) | [dxawi](https://github.com/dxawi/0) | [qist](https://github.com/qist/tvbox) | [FongMi](https://github.com/FongMi/CatVodSpider) 
