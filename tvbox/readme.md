@@ -28,7 +28,7 @@ TVBOX 俊于 接口
 
 影视 FongMi 接口
 
-    https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
+    https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/json/demo.json
 
 OK影视 OK 接口
 
