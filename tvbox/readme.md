@@ -50,11 +50,11 @@ GitHub：dxawi 接口
 
     http://肥猫.com
 
-公众号：神秘的哥哥们 饭太硬接口：
+公众号：神秘的哥哥们 饭太硬 接口：
 
     http://www.饭太硬.com/tv
   
-公众号：神秘的哥哥们 小米DEMO接口：
+公众号：神秘的哥哥们 小米 接口：
 
     http://www.mpanso.com/小米/DEMO.json
 
