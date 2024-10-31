@@ -13,8 +13,8 @@
 电视直播壳 [1] 支持M3U的软件 TivoMate、Perfect Player  [2] 支持TXT的软件 DIYP、派大星直播  
 
 小薇直播 http://www.xiaoweizhibo.net/  
-OurTV https://github.com/andandroidor/ourtv/releases
-mytv https://github.com/yaoxieyoulei/mytv-android *需要ipv6支持*
+OurTV https://github.com/andandroidor/ourtv/releases  
+mytv https://github.com/yaoxieyoulei/mytv-android *需要ipv6支持*  
 
 ### [影视点播](https://vinswu.lanzouw.com/b0e6mo2aj "下载点播软件，密码1024")[源](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播源分享")
 
