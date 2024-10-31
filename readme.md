@@ -8,6 +8,10 @@
 [乐家桌面](https://lejiazm.com/) + [美家市场](https://www.mjapk.com/mjapp/)  
 [酷看桌面](http://www.ikukan.com/) + [乐家市场](https://www.lejiamk.com/index)  
 
+### 野草助手
+
+https://www.yecao.net/
+
 ### [电视直播](https://vinswu.lanzouw.com/b0e6di7ze "下载直播软件，密码1024")[源](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
 
 电视直播壳 [1] 支持M3U的软件 TivoMate、Perfect Player  [2] 支持TXT的软件 DIYP、派大星直播  
