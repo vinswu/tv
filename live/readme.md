@@ -23,6 +23,9 @@ http://www.yunhitv.com
 ### 酷看直播、超级iTV*  
 http://kutvv.com/
 
+### 我的电视
+https://github.com/lizongying/my-tv
+
 # 直播源
 
 iptv-org：https://github.com/iptv-org/iptv
