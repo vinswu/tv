@@ -38,7 +38,7 @@ qist：https://github.com/qist/tvbox/blob/master/tvlive.txt
 
 SPX372928：https://github.com/SPX372928/MyIPTV/blob/master/黑龙江PLTV移动CDN版.txt
 
-vbskycn：https://github.com/vbskycn/iptv
+vbskycn：https://github.com/vbskycn/iptv/blob/master/tv/iptv4.txt
 
 自用接口：
 
