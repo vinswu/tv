@@ -34,6 +34,8 @@ Ftindy：https://github.com/Ftindy/IPTV-URL
 
 IPTVindex：https://iptvindex.com
 
+IPTV研究所：https://www.mytvsuper.com.mp
+
 qist：https://github.com/qist/tvbox/blob/master/tvlive.txt
 
 SPX372928：https://github.com/SPX372928/MyIPTV/blob/master/黑龙江PLTV移动CDN版.txt
