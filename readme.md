@@ -15,6 +15,7 @@
 
 小薇直播 http://www.xiaoweizhibo.net/  
 大吉电视 https://www.dajitv.com/  
+小飞电视 https://y977.com/tv/  
 直播电视 https://github.com/vbskycn/iptv  
 OurTV https://github.com/andandroidor/ourtv  
 WebViewTV https://github.com/hxh19950701/WebViewTvLive   
