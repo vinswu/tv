@@ -24,7 +24,7 @@ WebViewTV https://github.com/hxh19950701/WebViewTvLive
 
 TVBox https://github.com/o0HalfLife0o/TVBoxOSC   
 影视(Fengmi) https://github.com/FongMi/Release/tree/fongmi  
-OK影视 https://github.com/FongMi/Release/tree/main 或 http://ok321.top  
+OK影视 https://github.com/FongMi/Release/tree/okjack 或 http://ok321.top  
 
 ### 网盘云播
 
