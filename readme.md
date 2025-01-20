@@ -17,11 +17,11 @@
 大吉电视 https://www.dajitv.com/  
 直播电视 https://github.com/vbskycn/iptv  
 
-MyTV https://github.com/lizongying/my-tv  （已失效）  
+MyTV https://github.com/lizongying/my-tv （已失效，一种新的免费看电视直播的解决方案的开拓者）  
 OurTV https://github.com/andandroidor/ourtv  
 小飞电视 https://y977.com/tv/  
 
-电视浏览器 https://github.com/Eanya-Tonic/CCTV_Viewer  
+电视浏览器 https://github.com/Eanya-Tonic/CCTV_Viewer （另一种新的免费看电视直播的解决方案）  
 WebView电视 https://github.com/hxh19950701/WebViewTvLive  
 
 ### [影视点播](https://vinswu.lanzouw.com/b0e6mo2aj "下载点播软件，密码1024")[源](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播源分享")
