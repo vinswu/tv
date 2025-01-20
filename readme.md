@@ -15,11 +15,14 @@
 
 小薇直播 http://www.xiaoweizhibo.net/  
 大吉电视 https://www.dajitv.com/  
-小飞电视 https://y977.com/tv/  
 直播电视 https://github.com/vbskycn/iptv  
+
+MyTV https://github.com/lizongying/my-tv  （已失效）  
 OurTV https://github.com/andandroidor/ourtv  
-WebView电视 https://github.com/hxh19950701/WebViewTvLive  
+小飞电视 https://y977.com/tv/  
+
 电视浏览器 https://github.com/Eanya-Tonic/CCTV_Viewer  
+WebView电视 https://github.com/hxh19950701/WebViewTvLive  
 
 ### [影视点播](https://vinswu.lanzouw.com/b0e6mo2aj "下载点播软件，密码1024")[源](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播源分享")
 
