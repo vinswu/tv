@@ -18,7 +18,8 @@
 小飞电视 https://y977.com/tv/  
 直播电视 https://github.com/vbskycn/iptv  
 OurTV https://github.com/andandroidor/ourtv  
-WebViewTV https://github.com/hxh19950701/WebViewTvLive   
+WebView电视 https://github.com/hxh19950701/WebViewTvLive  
+电视浏览器 https://github.com/Eanya-Tonic/CCTV_Viewer  
 
 ### [影视点播](https://vinswu.lanzouw.com/b0e6mo2aj "下载点播软件，密码1024")[源](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播源分享")
 
