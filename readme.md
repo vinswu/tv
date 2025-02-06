@@ -18,7 +18,7 @@
 小飞电视 https://y977.com/tv/  
 直播电视 https://github.com/vbskycn/iptv  
 
-MyTV https://github.com/lizongying/my-tv （已失效，一种新的免费看电视直播的解决方案的开拓者）  
+MyTV https://github.com/lizongying/my-tv （一种新的免费看电视直播的解决方案的开拓者，已失效）  
 OurTV https://github.com/andandroidor/ourtv  
 
 电视浏览器 https://github.com/Eanya-Tonic/CCTV_Viewer （另一种新的免费看电视直播的解决方案）  
