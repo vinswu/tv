@@ -50,12 +50,8 @@ SPX372928：https://github.com/SPX372928/MyIPTV/blob/master/黑龙江PLTV移动C
 
     https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
 
-    https://live.zbds.top/tv/iptv4.txt
-
 自用m3u接口：
 
     https://gitee.com/vinswu/tv/raw/master/live.m3u
 
     https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
-
-    https://live.zbds.top/tv/iptv4.m3u
