@@ -48,8 +48,12 @@ vbskycn：https://github.com/vbskycn/iptv/blob/master/tv/iptv4.txt
 
     https://live.zbds.top/tv/iptv4.txt
 
+    https://live.zbds.top/tv/iptv6.txt
+
 自用m3u接口：
 
     https://gitee.com/vinswu/tv/raw/master/live.m3u
 
     https://live.zbds.top/tv/iptv4.m3u
+
+    https://live.zbds.top/tv/iptv6.m3u
