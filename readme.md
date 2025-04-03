@@ -10,7 +10,7 @@
 [乐看家桌面](https://lekanjia.com/) + [看家鸟市场](https://lekanjia.com/)  
 [野草助手](https://www.yecao.net/)  
 
-### [电视直播](https://vinswu.lanzouw.com/b0e6di7ze "下载直播软件，密码1024")[源](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
+### [电视直播](https://vinswu.lanzouw.com/b0e6di7ze "下载直播软件，密码1024") [+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
 
 电视直播壳 [1] 支持M3U的软件 TivoMate、Perfect Player  [2] 支持TXT的软件 DIYP、派大星直播  
 
@@ -25,7 +25,7 @@ OurTV https://github.com/andandroidor/ourtv
 电视浏览器 https://github.com/Eanya-Tonic/CCTV_Viewer （另一种新的免费看电视直播的解决方案）  
 WebView电视 https://github.com/hxh19950701/WebViewTvLive  
 
-### [影视点播](https://vinswu.lanzouw.com/b0e6mo2aj "下载点播软件，密码1024")[源](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播源分享")
+### [影视点播](https://vinswu.lanzouw.com/b0e6mo2aj "下载点播软件，密码1024") [+](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播资源接口分享")
 
 TVBox https://github.com/o0HalfLife0o/TVBoxOSC   
 影视(Fengmi) https://github.com/FongMi/Release/tree/fongmi  
