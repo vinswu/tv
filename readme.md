@@ -20,7 +20,7 @@
 直播电视 https://izbds.com/aztv/  
 
 MyTV https://github.com/lizongying/my-tv （一种新的免费看电视直播的解决方案的开拓者，已失效）  
-OurTV https://github.com/andandroidor/ourtv  
+OurTV https://github.com/andandroidor/ourtv 或 https://ourtv.lanzoub.com/s/ourtv  
 
 电视浏览器 https://github.com/Eanya-Tonic/CCTV_Viewer （另一种新的免费看电视直播的解决方案）  
 WebView电视 https://github.com/hxh19950701/WebViewTvLive  
