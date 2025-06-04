@@ -41,10 +41,6 @@ OK影视 OK 接口
 神秘的哥哥们-饭太硬 接口
 
     http://www.饭太硬.com/tv
-  
-神秘的哥哥们-小米 接口
-
-    http://www.mpanso.com/小米/DEMO.json
 
 王二小放牛娃 接口
 
