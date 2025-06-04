@@ -12,7 +12,9 @@
 
 ### [电视直播](https://vinswu.lanzouw.com/b0e6di7ze "下载直播软件，密码1024") [+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
 
-电视直播壳 [1] 支持M3U的软件 TiviMate、Perfect Player  [2] 支持TXT的软件 DIYP、派大星直播  
+电视直播壳  
+支持M3U的软件：TiviMate、Perfect Player  
+支持TXT的软件：DIYP、派大星直播  
 
 小薇直播 http://www.xiaoweizhibo.net/ （老牌）  
 大吉电视 https://www.dajitv.com/  
