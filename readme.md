@@ -17,7 +17,7 @@
 小薇直播 http://www.xiaoweizhibo.net/ （老牌）  
 大吉电视 https://www.dajitv.com/  
 小飞电视 https://y977.com/tv/  
-直播电视 https://izbds.com/ 
+直播电视 https://izbds.com/  
 HTV https://github.com/HTWMedia/HTV  
 极简TV https://github.com/aiyakuaile/easy_tv_live  
 
