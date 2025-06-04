@@ -42,10 +42,6 @@ GitHub：dxawi 接口
 
     https://dxawi.github.io/0/0.json
 
-公众号：云星日记 接口
-
-    http://itvbox.cc/云星日记
-
 公众号：肥猫宝贝 接口
 
     http://肥猫.com
