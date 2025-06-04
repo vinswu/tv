@@ -5,9 +5,6 @@
 [Emotn UI](https://app.emotn.com/ui/) + [Emotn Store](https://app.emotn.com/)  
 [当贝桌面](https://www.dangbei.com/zhuomian/) + [当贝市场](https://www.dangbei.com/apps/)  
 [沙发桌面](https://www.shafa.com/launcher) + [沙发管家](https://www.shafa.com/market)  
-[乐家桌面](https://lejiazm.com/) + [美家市场](https://www.mjapk.com/mjapp/)  
-[酷看桌面](http://www.ikukan.com/) + [乐家市场](https://www.lejiamk.com/index)  
-[乐看家桌面](https://lekanjia.com/) + [看家鸟市场](https://lekanjia.com/)  
 [野草助手](https://www.yecao.net/)  
 
 ### [电视直播](https://vinswu.lanzouw.com/b0e6di7ze "下载直播软件，密码1024") [+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
