@@ -14,7 +14,7 @@
 
 小薇直播 http://www.xiaoweizhibo.net/ （老牌）  
 小飞电视 https://y977.com/tv/  
-直播电视 https://izbds.com/  
+直播电视 https://github.com/vbskycn/iptv 或 https://izbds.com/  
 HTV https://github.com/HTWMedia/HTV  
 
 MyTV https://github.com/lizongying/my-tv （一种新的免费看电视直播的解决方案的开拓者，已失效）  
