@@ -12,7 +12,6 @@
 
 ### [电视直播](https://vinswu.lanzouw.com/b0e6di7ze "下载直播软件，密码1024") [+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
 
-电视直播壳  
 支持M3U格式直播源的软件：TiviMate、Perfect Player  
 支持TXT格式直播源的软件：DIYP、派大星直播  
 
