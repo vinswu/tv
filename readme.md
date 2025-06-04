@@ -17,7 +17,6 @@
 小飞电视 https://y977.com/tv/  
 直播电视 https://izbds.com/  
 HTV https://github.com/HTWMedia/HTV  
-极简TV https://github.com/aiyakuaile/easy_tv_live  
 
 MyTV https://github.com/lizongying/my-tv （一种新的免费看电视直播的解决方案的开拓者，已失效）  
 OurTV https://github.com/andandroidor/ourtv 或 https://ourtv.lanzoub.com/s/ourtv  
