@@ -38,9 +38,4 @@ OK影视 https://github.com/FongMi/Release/tree/okjack 或 http://ok321.top
 
 [当贝播放器](https://www.dangbei.com/player/) 可登录百度网盘、阿里云盘等  
 [Ghosten Player](https://github.com/GhostenEditor/Ghosten-Player) 可登录阿里云盘、夸克网盘等  
-[迅雷云盘](https://tv.xunlei.com/)  
-[百度网盘](https://pan.baidu.com/download)  
-[阿里云盘](https://www.alipan.com/download/tvdownload)  
-[夸克网盘](https://pan.quark.cn/)  
-[UC网盘](https://drive.uc.cn/)  
-[阿里云盘(第三方）](https://aliyunpantv.pages.dev/download.html)  
+[迅雷云盘](https://tv.xunlei.com/)  |  [百度网盘](https://pan.baidu.com/download)  |  [阿里云盘](https://www.alipan.com/download/tvdownload)  |  [夸克网盘](https://pan.quark.cn/)  |  [UC网盘](https://drive.uc.cn/)  |  [阿里云盘(第三方）](https://aliyunpantv.pages.dev/download.html)  
