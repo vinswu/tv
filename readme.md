@@ -13,7 +13,6 @@
 支持TXT格式直播源的软件：DIYP、派大星直播  
 
 小薇直播 http://www.xiaoweizhibo.net/ （老牌）  
-大吉电视 https://www.dajitv.com/  
 小飞电视 https://y977.com/tv/  
 直播电视 https://izbds.com/  
 HTV https://github.com/HTWMedia/HTV  
