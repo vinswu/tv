@@ -41,6 +41,6 @@ OK影视 https://github.com/FongMi/Release/tree/okjack 或 http://ok321.top
 | [阿里云盘(第三方）](https://aliyunpantv.pages.dev/download.html)
 
 ### 外链
-| [分享迷](https://www.fenxm.com/tv)
 | [电视宝](https://www.itvapp.net/)
+| [分享迷](https://www.fenxm.com/tv)
 | [聚玩盒子](https://www.juwanhezi.com/tv)
