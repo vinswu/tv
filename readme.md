@@ -9,7 +9,8 @@
 ### 应用安装助手
 [野草助手](https://www.yecao.net/)  
 [应用管家](https://pd.qq.com/s/fvauombf8?b=9)  
-[甲壳虫ADB助手](https://github.com/didjdk/adbhelper)  
+[甲壳虫ADB助手（Android手机用）](https://github.com/didjdk/adbhelper)  
+[开心电视助手（Windows电脑用）](https://www.kaixindianshi.com/)  
 
 ### [电视直播](https://vinswu.lanzouw.com/b0e6di7ze "下载直播软件，密码1024") [+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
 
