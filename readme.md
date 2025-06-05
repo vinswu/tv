@@ -5,7 +5,10 @@
 [Emotn UI](https://app.emotn.com/ui/) + [Emotn Store](https://app.emotn.com/)  
 [当贝桌面](https://www.dangbei.com/zhuomian/) + [当贝市场](https://www.dangbei.com/apps/)  
 [沙发桌面](https://www.shafa.com/launcher) + [沙发管家](https://www.shafa.com/market)  
+
+### 助手工具
 [野草助手](https://www.yecao.net/)  
+[甲壳虫ADB助手](https://github.com/didjdk/adbhelper)
 
 ### [电视直播](https://vinswu.lanzouw.com/b0e6di7ze "下载直播软件，密码1024") [+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
 
