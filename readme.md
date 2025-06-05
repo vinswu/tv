@@ -26,7 +26,7 @@ WebView电视 https://github.com/hxh19950701/WebViewTvLive
 ### [影视点播](https://vinswu.lanzouw.com/b0e6mo2aj "下载点播软件，密码1024") [+](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播资源接口分享")
 
 TVBox https://github.com/o0HalfLife0o/TVBoxOSC   
-影视(Fengmi) https://github.com/FongMi/Release/tree/fongmi  
+影视(Fongmi) https://github.com/FongMi/Release/tree/fongmi  
 OK影视 https://github.com/FongMi/Release/tree/okjack 或 http://ok321.top  
 
 ### 网盘云播
