@@ -36,6 +36,7 @@ TVBox https://github.com/o0HalfLife0o/TVBoxOSC
 OK影视 https://github.com/FongMi/Release/tree/okjack 或 http://ok321.top  
 
 BBLL https://github.com/xiaye13579/BBLL （哔哩哔哩第三方）  
+SmartTube https://github.com/yuliskov/SmartTube （YouTube第三方）  
 
 油桃TV https://github.com/VonChange/utao 或 https://www.utao.tv/ （一个电视端浏览器，省去电视端会员费用）  
 
