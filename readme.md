@@ -55,6 +55,7 @@ SmartTube https://github.com/yuliskov/SmartTube （YouTube第三方）
 
 
 ### 外链
+| [爱网者](https://www.iwzhe.com/tv)
 | [电视宝](https://www.itvapp.net/)
 | [分享迷](https://www.fenxm.com/tv)
 | [盒子派](https://www.hezipie.com/dsrj)
