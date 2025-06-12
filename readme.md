@@ -31,16 +31,18 @@ WebView电视 https://github.com/hxh19950701/WebViewTvLive
 支持M3U格式直播源的软件：TiviMate、天光云影  
 支持TXT格式直播源的软件：DIYP、派大星直播  
 
-### [影视点播](https://vinswu.lanzouw.com/b0e6mo2aj "下载点播软件，密码1024") [+](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播资源接口分享")
-
-TVBox https://github.com/o0HalfLife0o/TVBoxOSC   
-影视(Fongmi) https://github.com/FongMi/Release/tree/fongmi  
-OK影视 https://github.com/FongMi/Release/tree/okjack 或 http://ok321.top  
+### 视频点播
 
 BBLL https://github.com/xiaye13579/BBLL （哔哩哔哩第三方）  
 SmartTube https://github.com/yuliskov/SmartTube （YouTube第三方）  
 
 油桃TV https://github.com/VonChange/utao 或 https://www.utao.tv/ （一个电视端浏览器，省去电视端会员费用）  
+
+### [点播壳子](https://vinswu.lanzouw.com/b0e6mo2aj "下载点播壳子，密码1024") [+](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播资源接口分享")
+
+TVBox https://github.com/o0HalfLife0o/TVBoxOSC   
+影视(Fongmi) https://github.com/FongMi/Release/tree/fongmi  
+OK影视 https://github.com/FongMi/Release/tree/okjack 或 http://ok321.top  
 
 ### 网盘云播
 
