@@ -12,8 +12,7 @@
 [甲壳虫ADB助手（Android手机用）](https://github.com/didjdk/adbhelper)  
 [开心电视助手（Windows电脑用）](https://www.kaixindianshi.com/)  
 
-### [电视直播](https://vinswu.lanzouw.com/b0e6di7ze "下载直播软件，密码1024") [+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
-
+### [电视直播](https://vinswu.lanzouw.com/b0e6di7ze "下载直播软件，密码1024") 
 小薇直播 http://www.xiaoweizhibo.net/ （老牌）  
 小飞电视 https://y977.com/tv/  
 电视直播 https://github.com/mytv-android/mytv-android  
@@ -27,7 +26,7 @@ OurTV https://github.com/andandroidor/ourtv 或 https://ourtv.lanzoub.com/s/ourt
 电视浏览器 https://github.com/Eanya-Tonic/CCTV_Viewer （另一种新的免费看电视直播的解决方案）  
 WebView电视 https://github.com/hxh19950701/WebViewTvLive  
 
-### [直播壳子](https://vinswu.lanzouw.com/b0e6di8di "下载直播壳子，密码1024")  
+### [直播壳子](https://vinswu.lanzouw.com/b0e6di8di "下载直播壳子，密码1024") [+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
 
 支持M3U格式直播源的软件：TiviMate、天光云影  
 支持TXT格式直播源的软件：DIYP、派大星直播  
