@@ -19,6 +19,7 @@
 
 小薇直播 http://www.xiaoweizhibo.net/ （老牌）  
 小飞电视 https://y977.com/tv/  
+电视直播 https://github.com/mytv-android/mytv-android  
 直播电视 https://github.com/vbskycn/iptv 或 https://izbds.com/  
 HTV https://github.com/HTWMedia/HTV  
 极简TV https://github.com/aiyakuaile/easy_tv_live  
