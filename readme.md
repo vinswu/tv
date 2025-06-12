@@ -14,8 +14,9 @@
 
 ### [电视直播](https://vinswu.lanzouw.com/b0e6di7ze "下载直播软件，密码1024") [+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
 
-支持M3U格式直播源的软件：TiviMate、天光云影  
-支持TXT格式直播源的软件：DIYP、派大星直播  
+[直播壳子](https://vinswu.lanzouw.com/b0e6di8di "下载直播壳子，密码1024")  
+*1.支持M3U格式直播源的软件：TiviMate、天光云影*  
+*2.支持TXT格式直播源的软件：DIYP、派大星直播*  
 
 小薇直播 http://www.xiaoweizhibo.net/ （老牌）  
 小飞电视 https://y977.com/tv/  
