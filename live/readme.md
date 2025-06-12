@@ -36,6 +36,8 @@ Guovin：https://github.com/Guovin/iptv-api
 
 vbskycn：https://github.com/vbskycn/iptv
 
+wwb521 https://github.com/wwb521/live
+
 IPTVindex：https://iptvindex.com
 
 IPTV研究所：https://www.mytvsuper.com.mp
