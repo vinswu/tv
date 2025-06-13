@@ -42,18 +42,11 @@ wwb521：https://github.com/wwb521/live
 
 IPTVindex：https://iptvindex.com
 
-自用txt接口1：
+自用txt接口：
 
     https://gitee.com/vinswu/tv/raw/master/live.txt
 
-自用txt接口2：
-
-    https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
-
-自用m3u接口1：
+自用m3u接口：
 
     https://gitee.com/vinswu/tv/raw/master/live.m3u
-
-自用m3u接口2：
-
-    https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+    
