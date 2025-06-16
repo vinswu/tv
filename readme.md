@@ -8,6 +8,7 @@
 [沙发桌面](https://www.shafa.com/launcher) + [沙发管家](https://www.shafa.com/market)  
 
 ## 应用安装助手
+[欢视助手](https://zhushou.huan.tv/)  
 [野草助手](https://www.yecao.net/)  
 [应用管家](https://pd.qq.com/s/fvauombf8?b=9)  
 [甲壳虫ADB助手（Android手机用）](https://github.com/didjdk/adbhelper)  
