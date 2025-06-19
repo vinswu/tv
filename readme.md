@@ -15,11 +15,10 @@
 
 ## [电视直播](https://vinswu.lanzouw.com/b0e6di7ze "下载直播软件，密码1024") 
 小薇直播 http://www.xiaoweizhibo.net/ （老牌）  
+直播电视 https://github.com/vbskycn/iptv 或 https://izbds.com/  
 小飞电视 https://y977.com/tv/  
 电视直播 https://github.com/mytv-android/mytv-android  
-直播电视 https://github.com/vbskycn/iptv 或 https://izbds.com/  
 HTV https://github.com/HTWMedia/HTV  
-极简TV https://github.com/aiyakuaile/easy_tv_live  
 
 MyTV https://github.com/lizongying/my-tv （一种新的免费看电视直播的解决方案的开拓者，已失效）  
 OurTV https://github.com/andandroidor/ourtv 或 https://ourtv.lanzoub.com/s/ourtv  
