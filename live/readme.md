@@ -28,21 +28,25 @@ https://github.com/lizongying/my-tv
 
 # 直播源
 
-iptv-org：https://github.com/iptv-org/iptv
-
-Ftindy：https://github.com/Ftindy/IPTV-URL
+dongyubin：https://github.com/dongyubin/IPTV
 
 fanmingming：https://github.com/fanmingming/live
 
+Ftindy：https://github.com/Ftindy/IPTV-URL
+
 Guovin：https://github.com/Guovin/iptv-api
+
+IPTVindex：https://iptvindex.com
+
+iptv-org：https://github.com/iptv-org/iptv
+
+suxuang：https://github.com/suxuang/myIPTV
 
 vbskycn：https://github.com/vbskycn/iptv
 
 wwb521：https://github.com/wwb521/live
 
 YanG-1989：https://github.com/YanG-1989/m3u
-
-IPTVindex：https://iptvindex.com
 
 自用txt接口：
 
