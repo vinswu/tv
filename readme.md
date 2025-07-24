@@ -33,6 +33,8 @@ WebView电视 https://github.com/hxh19950701/WebViewTvLive
 支持M3U格式直播源的软件：TiviMate、天光云影  
 支持TXT格式直播源的软件：DIYP、派大星直播  
 
+网页直播：TVAuto
+
 ## 视频点播
 
 BBLL https://github.com/xiaye13579/BBLL （哔哩哔哩第三方）  
