@@ -24,7 +24,7 @@
 小薇直播 http://www.xiaoweizhibo.net/ （老牌）  
 星火电视 https://t-bu.cn/b0hc46zoj （密码xhds）  
 大吉电视 https://www.dajitv.com/  
-凤凰秀TV https://m.fengshows.com/  
+凤凰秀TV https://m.fengshows.com/  （正）  
 直播电视 https://github.com/vbskycn/iptv 或 https://izbds.com/  
 我的电视·〇 https://github.com/lizongying/my-tv-0  
 小飞电视 https://y977.com/tv/  
