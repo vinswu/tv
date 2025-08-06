@@ -7,6 +7,12 @@
 [当贝桌面](https://www.dangbei.com/zhuomian/) + [当贝市场](https://www.dangbei.com/apps/)  
 [沙发桌面](https://www.shafa.com/launcher) + [沙发管家](https://www.shafa.com/market)  
 
+[乐家桌面](https://www.lejiazm.com/)  已关停  
+[欢喜桌面](https://www.huanxizm.com/)  
+[乐看家桌面](https://www.lekanjia.com/)  
+[小推桌面](https://xtzm.tvpusher.com/)  原：超级桌面  
+[酷看桌面](https://ikukan.cn/)  
+
 ## 应用安装助手
 [欢视助手](https://zhushou.huan.tv/)  
 [野草助手](https://www.yecao.net/)  
