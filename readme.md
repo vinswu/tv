@@ -3,9 +3,9 @@
 
 ## 启动桌面+应用商店
 
+[ATV Launcher Pro](https://play.google.com/store/apps/details?id=ca.dstudio.atvlauncher.pro)  
 [Emotn UI](https://app.emotn.com/ui/) + [Emotn Store](https://app.emotn.com/)  
 [当贝桌面](https://www.dangbei.com/zhuomian/) + [当贝市场](https://www.dangbei.com/apps/)  
-[ATV Launcher Pro](https://play.google.com/store/apps/details?id=ca.dstudio.atvlauncher.pro)  
 
 [沙发桌面](https://www.shafa.com/launcher) + [沙发管家](https://www.shafa.com/market)  
 [乐家桌面](https://www.lejiazm.com/)  已关停  
