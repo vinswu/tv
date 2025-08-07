@@ -54,7 +54,7 @@ DIYP影音 https://www.right.com.cn/forum/thread-8280295-1-1.html 支持TXT格�
 派大星直播 https://pd.qq.com/s/7l50fk7is  支持TXT格式  
 
 未找到官网（或发布站）的其他软件：  
-TVAuto 
+TVAuto  
 ……  
 
 ## 视频点播
