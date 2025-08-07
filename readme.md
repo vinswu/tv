@@ -38,7 +38,7 @@ OurTV https://github.com/andandroidor/ourtv 或 https://ourtv.lanzoub.com/s/ourt
 电视浏览器 https://github.com/Eanya-Tonic/CCTV_Viewer （另一种新的免费看电视直播的解决方案）  
 WebView电视 https://github.com/hxh19950701/WebViewTvLive  
 
-未找到官网（或发布站）的其他软件：  
+**未找到官网（或发布站）的其他软件：**  
 千寻直播  
 高清电视/看看电视/电视直播/电视直播Pro（同源）  
 星火电视/羽禾直播（同包名）  
@@ -53,7 +53,7 @@ TiviMate https://tivimate.com/  支持M3U格式
 DIYP影音 https://www.right.com.cn/forum/thread-8280295-1-1.html 支持TXT格式  
 派大星直播 https://pd.qq.com/s/7l50fk7is  支持TXT格式  
 
-未找到官网（或发布站）的其他软件：  
+**未找到官网（或发布站）的其他软件：**  
 TVAuto  
 ……  
 
