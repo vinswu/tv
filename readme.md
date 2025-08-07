@@ -1,5 +1,5 @@
-# 电视应用精选
-*密码1024*
+# 电视应用精选1024
+一个人的力量有限，欢迎到issues留言补充！！！
 
 ## 启动桌面+应用商店
 
@@ -38,7 +38,12 @@ OurTV https://github.com/andandroidor/ourtv 或 https://ourtv.lanzoub.com/s/ourt
 电视浏览器 https://github.com/Eanya-Tonic/CCTV_Viewer （另一种新的免费看电视直播的解决方案）  
 WebView电视 https://github.com/hxh19950701/WebViewTvLive  
 
-其他未找到官网的电视直播软件：千寻直播；高清电视/看看电视/电视直播/电视直播Pro（同源）；星火电视/羽禾直播（同包名）；超秒直播/海王直播（与小薇直播同源）；電視多TV/易發TV（同源）……
+其他未找到官网的电视直播软件：
+千寻直播；
+高清电视/看看电视/电视直播/电视直播Pro（同源）；
+星火电视/羽禾直播（同包名）；
+超秒直播/海王直播（与小薇直播同源）；
+電視多TV/易發TV（同源）……
 
 ## [直播壳子](https://vinswu.lanzouw.com/b0e6di8di "下载直播壳子，密码1024") [+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
 
