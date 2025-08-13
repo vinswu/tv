@@ -82,7 +82,8 @@ OK影视 https://github.com/FongMi/Release/tree/okjack 或 http://ok321.top
 | [UC网盘](https://drive.uc.cn/)
 | [电信天翼云盘](https://home.cloud.189.cn/web/download.html)
 | [中国移动云盘](https://yun.139.com/w/#/client)
-
+| [115网盘](https://115.com/)
+| [123云盘](https://www.123pan.com/)
 
 ## 外链
 | [爱网者](https://www.iwzhe.com/tv)
