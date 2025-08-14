@@ -90,3 +90,4 @@ OK影视 https://github.com/FongMi/Release/tree/okjack 或 http://ok321.top
 | [分享迷](https://www.fenxm.com/tv)
 | [盒子派](https://www.hezipie.com/dsrj)
 | [黑域基地](https://www.hybase.com/shouji/tv/)
+| [云视界](https://www.iptvkk.com/)
