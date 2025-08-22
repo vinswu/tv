@@ -20,7 +20,7 @@
 [甲壳虫ADB助手（Android手机用）](https://github.com/didjdk/adbhelper)  
 [开心电视助手（Windows电脑用）](https://www.kaixindianshi.com/)  
 
-## [电视直播](https://vinswu.lanzouw.com/b035o7icab "下载直播软件，密码1024") 
+## 电视直播
 小薇直播 http://www.xiaoweizhibo.net/ （老牌）  
 星火电视 https://t-bu.cn/b0hc46zoj （密码xhds）  
 大吉电视 https://www.dajitv.com/  
@@ -45,7 +45,7 @@ WebView电视 https://github.com/hxh19950701/WebViewTvLive
 電視多TV/易發TV（同源）  
 ……  
 
-## [直播壳子](https://vinswu.lanzouw.com/b0e6di8di "下载直播壳子，密码1024") [+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
+## 直播壳子[+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
 
 TiviMate https://tivimate.com/  支持M3U格式  
 天光云影 https://github.com/yaoxieyoulei/mytv-android 支持M3U格式  
@@ -63,7 +63,7 @@ SmartTube https://github.com/yuliskov/SmartTube （YouTube第三方）
 
 油桃TV https://github.com/VonChange/utao 或 https://www.utao.tv/ （一个电视端浏览器，省去电视端会员费用）  
 
-## [点播壳子](https://vinswu.lanzouw.com/b0e6mo2aj "下载点播壳子，密码1024") [+](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播资源接口分享")
+## 点播壳子[+](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播资源接口分享")
 
 TVBox https://github.com/o0HalfLife0o/TVBoxOSC   
 影视(Fongmi) https://github.com/FongMi/Release/tree/fongmi  
