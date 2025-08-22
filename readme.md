@@ -20,7 +20,7 @@
 [甲壳虫ADB助手（Android手机用）](https://github.com/didjdk/adbhelper)  
 [开心电视助手（Windows电脑用）](https://www.kaixindianshi.com/)  
 
-## [电视直播](https://vinswu.lanzouw.com/b0e6di7ze "下载直播软件，密码1024") 
+## [电视直播](https://vinswu.lanzouw.com/b035o7icab "下载直播软件，密码1024") 
 小薇直播 http://www.xiaoweizhibo.net/ （老牌）  
 星火电视 https://t-bu.cn/b0hc46zoj （密码xhds）  
 大吉电视 https://www.dajitv.com/  
