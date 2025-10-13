@@ -88,5 +88,5 @@ OK影视 https://github.com/FongMi/Release/tree/okjack 或 http://ok321.top
 | [电视宝](https://www.itvapp.net/)
 | [分享迷](https://www.fenxm.com/tv)
 | [黑域基地](https://www.hybase.com/shouji/tv/)
-| [聚玩盒子](https://www.juwanhezi.com/)
+| [聚玩盒子](https://www.juwanhezi.com/tv)
 | [云视界](https://www.iptvkk.com/)
