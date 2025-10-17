@@ -63,6 +63,8 @@ SmartTube https://github.com/yuliskov/SmartTube （YouTube第三方）
 
 油桃TV https://github.com/VonChange/utao 或 https://www.utao.tv/ （一个电视端浏览器，省去电视端会员费用）  
 
+一起看 https://yqk.app  
+
 ## 点播壳子[+](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播资源接口分享")
 
 TVBox https://github.com/o0HalfLife0o/TVBoxOSC   
