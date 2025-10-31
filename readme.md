@@ -35,7 +35,7 @@ MyTV https://github.com/lizongying/my-tv （一种新的免费看电视直播的
 OurTV https://github.com/andandroidor/ourtv 或 https://ourtv.lanzoub.com/s/ourtv  （已删库）
 
 电视浏览器 https://github.com/Eanya-Tonic/CCTV_Viewer （另一种新的免费看电视直播的解决方案）  
-WebView电视 https://github.com/hxh19950701/WebViewTvLive  
+WebView电视 https://github.com/hxh19950701/WebViewTvLive 或 https://url08.ctfile.com/d/62089408-63807715-92b755?p=5845&sessionid=  
 
 **未找到官网（或发布站）的其他软件：**  
 千寻直播  
