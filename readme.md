@@ -70,7 +70,7 @@ SmartTube https://github.com/yuliskov/SmartTube （YouTube第三方）
 
 TVBox https://github.com/o0HalfLife0o/TVBoxOSC   
 影视(Fongmi) https://github.com/FongMi/Release/tree/fongmi  
-OK影视 https://github.com/FongMi/Release/tree/okjack 或 http://ok321.top  
+OK影视 https://github.com/FongMi/Release/tree/okjack 或 http://ok213.top  
 
 ## 网盘云播
 
