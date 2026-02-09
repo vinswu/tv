@@ -32,7 +32,7 @@ TVBOX 俊于 接口
 
 OK影视 OK 接口
 
-    http://ok321.top/tv
+    http://ok213.top/tv
 
 肥猫宝贝 接口
 
