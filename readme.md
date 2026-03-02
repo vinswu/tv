@@ -49,7 +49,7 @@ DongYuTvWeb https://github.com/Yu2002s/DongYuTVWeb 或 https://gitee.com/jdy2002
 ## 直播壳子[+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
 
 TiviMate https://tivimate.com/  支持M3U格式  
-天光云影 https://github.com/yaoxieyoulei/mytv-android 支持M3U格式  
+天光云影 https://github.com/yaoxieyoulei/mytv-android 或 https://t.me/mytv_android_release 支持M3U格式  
 DIYP影音 https://www.right.com.cn/forum/thread-8280295-1-1.html 支持TXT格式  
 派大星直播 https://pd.qq.com/s/7l50fk7is  支持TXT格式  
 
@@ -68,7 +68,7 @@ TVAuto
 
 TVBox https://github.com/o0HalfLife0o/TVBoxOSC   
 影视(Fongmi) https://github.com/FongMi/Release/tree/fongmi  
-OK影视 https://github.com/FongMi/Release/tree/okjack 或 http://ok213.top  
+OK影视 https://github.com/FongMi/Release/tree/okjack 或 https://t.me/okdespace  网盘 [迅雷](https://pan.xunlei.com/s/VOdNIFrnI0RLf8qAs3b5BGUCA1?pwd=ir74)  [夸克](https://pan.quark.cn/s/cb0ee2b9ac64)    [UC](https://drive.uc.cn/s/e7b5fd4698704)  
 
 ## 网盘云播
 
