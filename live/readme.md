@@ -28,6 +28,8 @@ https://github.com/lizongying/my-tv
 
 # 直播源
 
+develop202：https://github.com/develop202/migu_video
+
 dongyubin：https://github.com/dongyubin/IPTV
 
 fanmingming：https://github.com/fanmingming/live
