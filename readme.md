@@ -18,7 +18,7 @@
 [悟空跨屏输入法](https://www.wukongtv.com/)  
 搜狗输入法TV版 海信提取版  
 
-[讯飞电视助手](http://yuyin.tv/)
+[讯飞电视助手](http://yuyin.tv/)  
 夏杰语音 [github](https://github.com/SHARJECK/AISharjeck) [gitee](https://gitee.com/sharjeck/AISharjeck)
 
 ## 应用安装助手
