@@ -13,14 +13,6 @@
 [酷看桌面](https://ikukan.cn/)  
 [小推桌面](https://xtzm.tvpusher.com/)  与"超级桌面"同包名  
 
-## 输入法+语音
-[小盒精灵（TVRemoteIME）](https://github.com/lambdalang/TVRemoteIME)  
-[悟空跨屏输入法](https://www.wukongtv.com/)  
-搜狗输入法TV版 海信提取版  
-
-[讯飞电视助手](http://yuyin.tv/)  
-夏杰语音 [github](https://github.com/SHARJECK/AISharjeck) [gitee](https://gitee.com/sharjeck/AISharjeck)
-
 ## 应用安装助手
 [欢视助手](https://zhushou.huan.tv/)  
 [野草助手](https://www.yecao.net/)  
@@ -95,6 +87,14 @@ OK影视 https://github.com/FongMi/Release/tree/okjack 或 https://t.me/okdespac
 | [中国移动云盘](https://yun.139.com/w/#/client)
 | [115网盘](https://115.com/)
 | [123云盘](https://www.123pan.com/)
+
+## 输入法+语音
+[小盒精灵（TVRemoteIME）](https://github.com/lambdalang/TVRemoteIME)  
+[悟空跨屏输入法](https://www.wukongtv.com/)  
+搜狗输入法TV版 海信提取版  
+
+[讯飞电视助手](http://yuyin.tv/)  
+夏杰语音 [github](https://github.com/SHARJECK/AISharjeck) [gitee](https://gitee.com/sharjeck/AISharjeck)  
 
 ## 外链
 | [电视宝](https://www.itvapp.net/)
