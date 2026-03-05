@@ -13,6 +13,11 @@
 [酷看桌面](https://ikukan.cn/)  
 [小推桌面](https://xtzm.tvpusher.com/)  与"超级桌面"同包名  
 
+## 输入法+语音
+[小盒精灵（TVRemoteIME）](https://github.com/lambdalang/TVRemoteIME)
+[悟空跨屏输入法](https://www.wukongtv.com/)
+搜狗输入法TV版 海信提取版
+
 ## 应用安装助手
 [欢视助手](https://zhushou.huan.tv/)  
 [野草助手](https://www.yecao.net/)  
