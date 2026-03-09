@@ -22,8 +22,8 @@
 
 ## 电视直播
 小薇直播 http://www.xiaoweizhibo.net/ 或 http://xwzbapp.com/ （老牌）  
-超秒直播 http://www.supertvbus.com/  
-海王直播 http://www.seakingtv.com/  
+超秒直播 http://www.supertvbus.com/ （与小薇直播同源）  
+海王直播 http://www.seakingtv.com/ （与小薇直播同源）  
 星火电视 https://t-bu.cn/b0hc46zoj （密码xhds）  
 大吉电视 https://www.dajitv.com/  
 凤凰秀TV https://m.fengshows.com/  （正）  
@@ -43,9 +43,8 @@ DongYuTvWeb https://github.com/Yu2002s/DongYuTVWeb 或 https://gitee.com/jdy2002
 **未找到官网（或发布站）的其他软件：**  
 千寻直播  
 高清电视/看看电视/电视直播/电视直播Pro（同源）  
-星火电视/羽禾直播（同包名）  
-超秒直播/海王直播（与小薇直播同源）  
 電視多TV/易發TV（同源）  
+羽禾直播（与星火电视同包名）  
 ……  
 
 ## 直播壳子[+](https://github.com/vinswu/vinswu.github.io/blob/main/live/readme.md#直播源 "直播源分享")
