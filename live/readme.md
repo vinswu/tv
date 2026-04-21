@@ -50,11 +50,4 @@ wwb521：https://github.com/wwb521/live
 
 YanG-1989：https://github.com/YanG-1989/m3u
 
-自用txt接口：
-
-    https://gitee.com/vinswu/tv/raw/master/live.txt
-
-自用m3u接口：
-
-    https://gitee.com/vinswu/tv/raw/master/live.m3u
     
