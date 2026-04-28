@@ -68,6 +68,7 @@ TVAuto
 
 荐片 https://www.jianpian.com  
 一起看 https://yqk.app  
+瓜子影视 https://gzys.app
 
 ## 点播壳子[+](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播资源接口分享")
 
