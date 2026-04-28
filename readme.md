@@ -73,6 +73,7 @@ TVAuto
 ## 点播壳子[+](https://github.com/vinswu/vinswu.github.io/tree/main/tvbox#在线接口 "点播资源接口分享")
 
 TVBox https://github.com/o0HalfLife0o/TVBoxOSC   
+影视仓 https://pd.qq.com/s/7l50fk7is
 影视(Fongmi) https://github.com/FongMi/Release/tree/fongmi  
 OK影视 https://github.com/FongMi/Release/tree/okjack 或 https://t.me/okdespace  网盘 [迅雷](https://pan.xunlei.com/s/VOdNIFrnI0RLf8qAs3b5BGUCA1?pwd=ir74)  [夸克](https://pan.quark.cn/s/cb0ee2b9ac64)    [UC](https://drive.uc.cn/s/e7b5fd4698704)  
 
