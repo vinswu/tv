@@ -86,8 +86,9 @@ OK影视 https://github.com/FongMi/Release/tree/okjack 或 https://t.me/okdespac
 | [阿里云盘(第三方）](https://aliyunpantv.pages.dev/download.html)
 | [夸克网盘](https://pan.quark.cn/)
 | [UC网盘](https://drive.uc.cn/)
-| [电信天翼云盘](https://home.cloud.189.cn/web/download.html)
 | [中国移动云盘](https://yun.139.com/w/#/client)
+| [电信天翼云盘](https://home.cloud.189.cn/web/download.html)
+| [联通云盘](https://pan.wo.cn/)
 | [115网盘](https://115.com/)
 | [123云盘](https://www.123pan.com/)
 
