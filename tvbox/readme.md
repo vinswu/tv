@@ -30,7 +30,7 @@ TVBOX 俊于 接口
 
     https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/json/demo.json
 
-OK影视 OK 接口
+OK影视 OKjack 接口
 
     http://ok213.top/tv
 
