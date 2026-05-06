@@ -34,18 +34,22 @@ OK影视 OK 接口
 
     http://ok213.top/tv
 
+饭太硬 接口
+
+    http://www.饭太硬.com/tv
+
 肥猫宝贝 接口
 
     http://肥猫.com
-
-神秘的哥哥们-饭太硬 接口
-
-    http://www.饭太硬.com/tv
 
 王二小放牛娃 接口
 
     http://tvbox.王二小放牛娃.top
 
+菜妮丝 接口
+
+    https://tv.菜妮丝.top
+    
 ## 本地接口配置方法
 
 clan://localhost/存放路径/本地配置文件夹名/接口文件名.json（或 .txt 格式文件）
