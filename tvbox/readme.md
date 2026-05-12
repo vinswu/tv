@@ -86,7 +86,7 @@ https://hfr1107.github.io/CatVodTVJsonEditor/
 
 #### 示例
 
-https://raw.giteeusercontent.com/vinswu/tv/raw/master/yszy.json
+    https://raw.giteeusercontent.com/vinswu/tv/raw/master/yszy.json
 
 ## 本地接口配置方法
 
