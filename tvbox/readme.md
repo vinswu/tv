@@ -84,6 +84,10 @@ https://hfr1107.github.io/CatVodTVJsonEditor/
 - 红牛 https://www.hongniuzy.com/
 - 茅台 https://mtzy.com/
 
+#### 示例
+
+https://raw.giteeusercontent.com/vinswu/tv/raw/master/yszy.json
+
 ## 本地接口配置方法
 
 clan://localhost/存放路径/本地配置文件夹名/接口文件名.json（或 .txt 格式文件）
