@@ -84,6 +84,12 @@ https://hfr1107.github.io/CatVodTVJsonEditor/
 - 红牛 https://www.hongniuzy.com/
 - 茅台 https://mtzy.com/
 
+#### 更多
+
+- 影视站长圈 https://www.yszzq.com/ziyuan/
+- 站长资源 https://www.zzzypro.com/#term-6
+- 小众技术 https://www.xiaozhongjishu.com/#term-30
+
 #### 示例
 
     https://raw.giteeusercontent.com/vinswu/tv/raw/master/yszy.json
