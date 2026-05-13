@@ -62,23 +62,22 @@ https://hfr1107.github.io/CatVodTVJsonEditor/
 
 #### 影视资源站
 
+- 360 https://360zy.com/
 - 豆瓣 https://dbzy.tv/
 - 猫眼 https://www.maoyanzy.com/
-- 360 https://360zy.com/
 - 爱奇艺 https://www.iqiyizy.com/
-- 暴风 https://bfzy.tv/
-- 金鹰 https://jinyingzy.com/
 - 虎牙 https://huyazy.com/
-- 新浪 https://www.xinlangzy.com/
+- 金鹰 https://jinyingzy.com/
+- 暴风 https://bfzy.tv/
 - 快车 https://kuaichezy.com/
 - 无水印 https://www.wsyzy.cc/
+- 如意 https://ryzy.tv/
 - 淘片 https://www.taopianzy.com/
 - 速播 https://www.subozy.com/
 - 光速 https://guangsuzy.com/
 - 极速 https://www.jisuzy.com/
-- 如意 https://ryzy.tv/
-- 豪华 https://haohuazy.com/
 - 非凡 http://ffzy.tv/
+- 豪华 https://haohuazy.com/
 - 量子 https://lzizy.com/
 - 索尼 https://suonizy.com/
 - 红牛 https://www.hongniuzy.com/
