@@ -58,7 +58,7 @@ OK影视 OKjack 接口
 
 #### 资源配置器
 
-https://hfr1107.github.io/CatVodTVJsonEditor/
+https://github.com/CatVodTVOfficial/CatVodTVSpider
 
 #### 影视资源站
 
