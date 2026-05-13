@@ -60,6 +60,8 @@ OK影视 OKjack 接口
 
 https://github.com/CatVodTVOfficial/CatVodTVSpider
 
+https://hfr1107.github.io/CatVodTVJsonEditor/
+
 #### 影视资源站
 
 - 360 https://360zy.com/
