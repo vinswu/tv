@@ -88,7 +88,7 @@ https://hfr1107.github.io/CatVodTVJsonEditor/
 
 - 影视站长圈 https://www.yszzq.com/ziyuan/
 - 站长资源 https://www.zzzypro.com/#term-6
-- 小众技术 https://www.xiaozhongjishu.com/#term-30
+- 影视宝藏 https://tv.baozangdh.com/
 
 #### 示例
 
