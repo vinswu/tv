@@ -80,7 +80,9 @@ OK影视 https://github.com/FongMi/Release/tree/okjack 或 https://t.me/okdespac
 ## 网盘云播
 
 [Ghosten Player](https://github.com/GhostenEditor/Ghosten-Player) 可登录阿里云盘、夸克网盘等  
+[网易爆米花](https://bmh.163.com/) 可登录百度网盘、阿里云盘、115网盘、天翼云盘、中国移动云盘、联通云盘等  
 [当贝播放器](https://www.dangbei.com/player/) 可登录百度网盘、阿里云盘、天翼云盘等  
+[VidHub](https://zh.okaapps.com/product/1659622164) 可登录百度网盘、阿里云盘、115网盘等  
 [迅雷云盘](https://tv.xunlei.com/) 可登录百度网盘、阿里云盘、115网盘等  
 | [百度网盘](https://pan.baidu.com/download)
 | [阿里云盘](https://www.alipan.com/download/tvdownload)
