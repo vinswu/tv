@@ -99,7 +99,13 @@ https://hfr1107.github.io/CatVodTVJsonEditor/
 
 ## 本地接口配置方法
 
-clan://localhost/存放路径/本地配置文件夹名/接口文件名.json（或 .txt 格式文件）
+通用
+
+clan://localhost/json（或 txt ）接口文件的存放路径
+
+影视
+
+file://json（或 txt ）接口文件的存放路径
 
 ## 其他
 
