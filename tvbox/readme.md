@@ -99,7 +99,7 @@ https://hfr1107.github.io/CatVodTVJsonEditor/
 
 ## 本地接口配置方法
 
-通用
+TVBox
 
 clan://localhost/json（或 txt ）接口文件的存放路径
 
