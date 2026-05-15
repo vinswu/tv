@@ -107,10 +107,6 @@ clan://localhost/json（或 txt ）接口文件的存放路径
 
 file://json（或 txt ）接口文件的存放路径
 
-潇洒本地包自动拉取
-
-https://github.com/leiyou-li/xiaosaautomatic
-
 ## 其他
 
 #### [Github Action 自动编译 APK](https://github.com/Wsine/android_builder) | [NP 管理器 APK 签名](https://github.com/githubXiaowangzi/NP-Manager) | [GitHub Proxy 代理加速](https://ghp.ci/)
@@ -118,7 +114,9 @@ https://github.com/leiyou-li/xiaosaautomatic
 | [alantang1977](https://github.com/alantang1977/X)
 | [dxawi](https://github.com/dxawi/0)
 | [gaotianliuyun](https://github.com/gaotianliuyun/gao)
+| [leiyou-li](https://github.com/leiyou-li/xiaosaautomatic)
 | [liu673cn](https://github.com/liu673cn/box)
+| [PizazzGY](https://github.com/PizazzGY/NewTVBox)
 | [qist](https://github.com/qist/tvbox)
 | [yoursmile66](https://github.com/yoursmile66/TVBox)
 | [YuanHsing](https://github.com/YuanHsing/freed)
