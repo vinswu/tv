@@ -82,7 +82,6 @@ OK影视 https://github.com/FongMi/Release/tree/okjack 或 https://t.me/okdespac
 | [迅雷云盘](https://tv.xunlei.com/) 
 | [百度网盘](https://pan.baidu.com/download)
 | [阿里云盘](https://www.alipan.com/download/tvdownload)
-| [阿里云盘(第三方）](https://aliyunpantv.pages.dev/download.html)
 | [夸克网盘](https://pan.quark.cn/)
 | [UC网盘](https://drive.uc.cn/)
 | [电信天翼云盘](https://home.cloud.189.cn/web/download.html)
