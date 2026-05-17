@@ -38,21 +38,33 @@ OK影视 OKjack 接口
 
     http://www.饭太硬.com/tv
 
-肥猫宝贝 接口
+饭太硬 备用
+
+    http://fty.xxooo.cf/tv
+
+肥猫 接口
 
     http://肥猫.com
+
+肥猫 备用
+
+    http://feimao.pro
 
 王二小放牛娃 接口
 
     http://tvbox.王二小放牛娃.top
 
-菜妮丝 接口
+王二小放牛娃 备用
 
-    https://tv.菜妮丝.top
+    http://tv.888999987.xyz
 
 摸鱼 接口
 
     http://我不是.摸鱼儿.top
+
+菜妮丝 接口
+
+    https://tv.菜妮丝.top
     
 ## 资源配置
 
