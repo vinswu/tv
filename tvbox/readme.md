@@ -126,6 +126,7 @@ file://json（或 txt ）接口文件的存放路径
 | [alantang1977](https://github.com/alantang1977/X)
 | [dxawi](https://github.com/dxawi/0)
 | [gaotianliuyun](https://github.com/gaotianliuyun/gao)
+| [Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg)
 | [liu673cn](https://github.com/liu673cn/box)
 | [PizazzGY](https://github.com/PizazzGY/NewTVBox)
 | [qist](https://github.com/qist/tvbox)
