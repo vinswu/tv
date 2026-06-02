@@ -26,6 +26,10 @@ TVBOX 俊于 接口
 
     http://home.jundie.top:81/top98.json
 
+影视仓 接口
+
+    http://www.影视仓.com
+
 影视 FongMi 接口
 
     https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/json/demo.json
