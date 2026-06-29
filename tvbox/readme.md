@@ -40,19 +40,11 @@ OK影视 OKjack 接口
 
 饭太硬 接口
 
-    http://www.饭太硬.com/tv
-
-饭太硬 备用
-
     http://www.饭太硬.net/tv
 
 饭太硬 备用
 
     http://fty.xxooo.cf/tv
-
-肥猫 接口
-
-    http://肥猫.com
 
 肥猫 接口
 
