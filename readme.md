@@ -40,7 +40,7 @@ OurTV https://github.com/andandroidor/ourtv 或 https://ourtv.lanzoub.com/s/ourt
 WebView电视 https://github.com/hxh19950701/WebViewTvLive 网盘 [城通](https://url08.ctfile.com/d/62089408-63807715-92b755?p=5845&sessionid=)  
 DongYuTvWeb https://app.jdynb.xyz/ 或 https://github.com/Yu2002s/DongYuTVWeb 或 https://gitee.com/jdy2002/DongYuTvWeb  
 
-系统组件：Android System WebView  
+系统组件：[Android System WebView](https://pan.baidu.com/s/1oDqTE7acEvSuRyWuTuUidA?pwd=1024)  
 原始包名：com.android.webview 或 com.google.android.webview ！注意区分！！！  
 安卓5支持的最高版本是：95.0.4638.xx  
 安卓6支持的最高版本是：106.0.5249.xx  
