@@ -1,9 +1,9 @@
 "CCTV-1 综合","https://tv.cctv.com/live/cctv1/";
 "CCTV-2 财经","https://tv.cctv.com/live/cctv2/";
 "CCTV-3 综艺","https://tv.cctv.com/live/cctv3/";
-"CCTV-4 中文国际（亚）","https://tv.cctv.com/live/cctv4/";
-"CCTV-4 中文国际（欧）","https://tv.cctv.com/live/cctveurope/";
-"CCTV-4 中文国际（美）","https://tv.cctv.com/live/cctvamerica/";
+"CCTV-4 中文国际","https://tv.cctv.com/live/cctv4/";
+"CCTV-4 中文国际 欧洲","https://tv.cctv.com/live/cctveurope/";
+"CCTV-4 中文国际 美洲","https://tv.cctv.com/live/cctvamerica/";
 "CCTV-5 体育","https://tv.cctv.com/live/cctv5/";
 "CCTV-5+ 体育赛事","https://tv.cctv.com/live/cctv5plus/"
 ;"CCTV-6 电影","https://tv.cctv.com/live/cctv6/";
@@ -19,12 +19,12 @@
 "CCTV-16 奥林匹克","https://tv.cctv.com/live/cctv16/";
 "CCTV-17 农业农村","https://tv.cctv.com/live/cctv17/";
 "浙江卫视","https://www.cztv.com/liveTV/101";
-"钱江都市","https://www.cztv.com/liveTV/102";
-"经济生活","https://www.cztv.com/liveTV/103";
-"教科影视","https://www.cztv.com/liveTV/104";
-"民生休闲","https://www.cztv.com/liveTV/106";
-"新闻","https://www.cztv.com/liveTV/107";
-"少儿","https://www.cztv.com/liveTV/108";
+"浙江钱江都市","https://www.cztv.com/liveTV/102";
+"浙江经济生活","https://www.cztv.com/liveTV/103";
+"浙江教科影视","https://www.cztv.com/liveTV/104";
+"浙江民生休闲","https://www.cztv.com/liveTV/106";
+"浙江新闻","https://www.cztv.com/liveTV/107";
+"浙江少儿","https://www.cztv.com/liveTV/108";
 "浙江国际","https://www.cztv.com/liveTV/110";
-"好易购","https://www.cztv.com/liveTV/111";
-"之江记录","https://www.cztv.com/liveTV/112";
+"浙江好易购","https://www.cztv.com/liveTV/111";
+"浙江之江记录","https://www.cztv.com/liveTV/112";
