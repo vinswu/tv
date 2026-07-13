@@ -39,6 +39,7 @@ OurTV https://github.com/andandroidor/ourtv 或 https://ourtv.lanzoub.com/s/ourt
 电视浏览器 https://github.com/Eanya-Tonic/CCTV_Viewer （另一种新的免费看电视直播的解决方案）  
 WebView电视 https://github.com/hxh19950701/WebViewTvLive 网盘 [城通](https://url08.ctfile.com/d/62089408-63807715-92b755?p=5845&sessionid=)  
 DongYuTvWeb https://app.jdynb.xyz/ 或 https://github.com/Yu2002s/DongYuTVWeb 或 https://gitee.com/jdy2002/DongYuTvWeb  
+TVAuto https://github.com/ymlyyy/TVAuto
 
 系统组件：[Android System WebView](https://pan.baidu.com/s/1oDqTE7acEvSuRyWuTuUidA?pwd=1024)  
 原始包名：com.android.webview 或 com.google.android.webview ！注意区分！！！  
@@ -64,7 +65,6 @@ DIYP影音 https://www.right.com.cn/forum/thread-8280295-1-1.html 支持TXT格�
 
 **未找到官网（或发布站）的其他软件：**  
 酷9  
-TVAuto  
 ……  
 
 ## 视频点播
