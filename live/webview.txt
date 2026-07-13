@@ -5,8 +5,8 @@
 "CCTV-4 中文国际 欧洲","https://tv.cctv.com/live/cctveurope/";
 "CCTV-4 中文国际 美洲","https://tv.cctv.com/live/cctvamerica/";
 "CCTV-5 体育","https://tv.cctv.com/live/cctv5/";
-"CCTV-5+ 体育赛事","https://tv.cctv.com/live/cctv5plus/"
-;"CCTV-6 电影","https://tv.cctv.com/live/cctv6/";
+"CCTV-5+ 体育赛事","https://tv.cctv.com/live/cctv5plus/";
+"CCTV-6 电影","https://tv.cctv.com/live/cctv6/";
 "CCTV-7 国防军事","https://tv.cctv.com/live/cctv7/";
 "CCTV-8 电视剧","https://tv.cctv.com/live/cctv8/";
 "CCTV-9 纪录","https://tv.cctv.com/live/cctvjilu/";
