@@ -46,21 +46,17 @@ OK影视 OKjack 接口
 
     http://fty.xxooo.cf/tv
 
-肥猫 接口
-
-    http://肥猫.net
-    
-肥猫 备用
-
-    http://feimao.pro
-
 王二小放牛娃 接口
 
-    http://tvbox.王二小放牛娃.top
+    http://new.王二小放牛娃.top
 
 王二小放牛娃 备用
 
-    http://tv.999888987.xyz
+    http://new.999888987.xyz
+
+肥猫 接口
+
+    http://肥猫.net
 
 摸鱼 接口
 
