@@ -36,9 +36,10 @@ MyTV https://github.com/lizongying/my-tv （一种新的免费看电视直播的
 OurTV https://github.com/andandroidor/ourtv 或 https://ourtv.lanzoub.com/s/ourtv  （已删库）
 
 电视浏览器 https://github.com/Eanya-Tonic/CCTV_Viewer （另一种新的免费看电视直播的解决方案）  
-WebView电视 https://github.com/hxh19950701/WebViewTvLive 网盘 [城通](https://url08.ctfile.com/d/62089408-63807715-92b755?p=5845&sessionid=)  
+WebView 电视 https://github.com/hxh19950701/WebViewTvLive 网盘 [城通](https://url08.ctfile.com/d/62089408-63807715-92b755?p=5845&sessionid=)  
 TV Auto https://github.com/ymlyyy/TVAuto  
 DongYuTvWeb（我的电视） https://app.jdynb.xyz/ 或 https://github.com/Yu2002s/DongYuTVWeb 或 https://gitee.com/jdy2002/DongYuTvWeb  
+网页电视（nativeWasmTv） https://github.com/buhanzhe/NativeWasmTv  
 
 系统组件：[Android System WebView](https://pan.baidu.com/s/1oDqTE7acEvSuRyWuTuUidA?pwd=1024)  
 原始包名：com.android.webview 或 com.google.android.webview ！注意区分！！！  
