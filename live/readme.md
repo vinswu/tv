@@ -1,4 +1,4 @@
-# 免费电视直播（标 * 代表无广告，推荐使用）
+## 免费电视直播（标 * 代表无广告，推荐使用）
 
 ***2023年11月20日起以“电视家”为代表的一众电视直播软件遭“团灭”***
 
@@ -26,7 +26,7 @@ http://kutvv.com/
 ### 我的电视
 https://github.com/lizongying/my-tv
 
-# 直播源
+## 直播源
 
 develop202：https://github.com/develop202/migu_video
 
@@ -50,4 +50,6 @@ wwb521：https://github.com/wwb521/live
 
 YanG-1989：https://github.com/YanG-1989/m3u
 
-    
+#### 示例
+
+    https://raw.giteeusercontent.com/vinswu/tv/raw/master/yszy.json    
