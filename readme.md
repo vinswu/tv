@@ -108,7 +108,7 @@ OK影视 https://github.com/FongMi/Release/tree/okjack 或 https://t.me/okdespac
 [讯飞电视助手](http://yuyin.tv/)  
 夏杰语音 [github](https://github.com/SHARJECK/AISharjeck) [gitee](https://gitee.com/sharjeck/AISharjeck)  
 
-## 外链 - （按首字母排序）
+## 外链（按首字母排序）
 | [电视宝](https://www.itvapp.net/)
 | [分享迷](https://www.fenxm.com/tv)
 | [黑域基地](https://www.hybase.com/shouji/tv/)
