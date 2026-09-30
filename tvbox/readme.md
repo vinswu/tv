@@ -46,6 +46,10 @@ OK影视 OKjack 接口
 
     http://tvbox.王二小放牛娃.top
 
+王二小放牛娃 接口 新
+
+    http://new.王二小放牛娃.top
+
 肥猫 接口
 
     http://肥猫.net
