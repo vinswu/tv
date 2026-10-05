@@ -42,13 +42,17 @@ OK影视 OKjack 接口
 
     http://www.饭太硬.cc/tv
 
+饭太硬 接口 备用
+
+    http://fty.xxooo.cf/tv
+
 王二小放牛娃 接口
 
     http://tvbox.王二小放牛娃.top
 
-王二小放牛娃 接口 新
+王二小放牛娃 接口 备用
 
-    http://new.王二小放牛娃.top
+    http://tv.999888987.xyz
 
 肥猫 接口
 
