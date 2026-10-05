@@ -54,13 +54,17 @@ OK影视 OKjack 接口
 
     http://肥猫.net
 
-摸鱼 接口
-
-    http://我不是.摸鱼儿.top
-
 菜妮丝 接口
 
     https://tv.菜妮丝.top
+
+嗷呜 接口
+
+    http://www.英格里希嗷呜.top/tv
+
+摸鱼 接口
+
+    http://我不是.摸鱼儿.top
     
 ## 资源配置
 
