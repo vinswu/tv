@@ -24,7 +24,7 @@
 小薇直播 http://www.xiaoweizhibo.net/ 或 http://xwzbapp.com/ （老牌）  
 超秒直播 http://www.supertvbus.com/ （与小薇直播同源）  
 海王直播 http://www.seakingtv.com/ （与小薇直播同源）  
-星火电视 https://t-bu.cn/b0hc46zoj （密码xhds）  
+星火电视 https://t-bu.cn/b0hc46zoj （密码[xhds](https://lanzoucdn.lanzoul.com/b0hc46zoj)）  
 大吉电视 https://www.dajitv.com/  
 凤凰秀TV https://m.fengshows.com/  （正）  
 直播电视 https://github.com/vbskycn/iptv 或 https://izbds.com/  
