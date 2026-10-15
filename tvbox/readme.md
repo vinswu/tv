@@ -10,6 +10,8 @@ https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
 https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases
 
+https://github.com/hgtuj5688/tvbox-desktop/releases
+
 ##  影视
 
 #### 影视 源码仓
