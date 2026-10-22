@@ -10,7 +10,7 @@ https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
 #### TVBox jun版 源码仓
 
-https://github.com/j4Uq/TVBoxOSC
+https://github.com/q215613905/TVBoxOS
 
 #### TVBox jun版 发布页
 
