@@ -8,11 +8,11 @@ https://github.com/CatVodTVOfficial/TVBoxOSC
 
 https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
-#### TVBox-jun 源码仓
+#### TVBox jun版 源码仓
 
 https://github.com/j4Uq/TVBoxOSC
 
-#### TVBox-jun 发布页
+#### TVBox jun版 发布页
 
 https://github.com/q215613905/TVBoxOSCRelease
 
