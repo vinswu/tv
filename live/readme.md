@@ -52,5 +52,5 @@ YanG-1989：https://github.com/YanG-1989/m3u
 
 #### 示例
 
-    https://raw.giteeusercontent.com/vinswu/tv/raw/master/dszb.txt
+    https://raw.giteeusercontent.com/vinswu/tv/raw/master/zby.txt
     
