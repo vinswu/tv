@@ -137,6 +137,7 @@ file://json（或 txt ）接口文件的存放路径
 | [dxawi](https://github.com/dxawi/0)
 | [gaotianliuyun](https://github.com/gaotianliuyun/gao)
 | [Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg)
+| [kukuqi666](https://github.com/kukuqi666/TVboxOSC)
 | [liu673cn](https://github.com/liu673cn/box)
 | [lushunming](https://github.com/lushunming/AndroidCatVodSpider)
 | [PizazzGY](https://github.com/PizazzGY/NewTVBox)
