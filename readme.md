@@ -12,6 +12,7 @@
 [乐看家桌面](https://www.lekanjia.com/)  
 [酷看桌面](https://ikukan.cn/)  
 [小推桌面](https://xtzm.tvpusher.com/)  与"超级桌面"同包名  
+[萌新桌面](https://gitee.com/kevinzgai/menxinapk)  
 
 ## 应用安装助手
 [欢视助手](https://zhushou.huan.tv/)  
